@@ -1,0 +1,248 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Alice Admin",
+      "password": "password123",
+      "roles": [
+        "admin",
+        "customer"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Bob Builder",
+      "password": "password123",
+      "roles": [
+        "customer"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "boss",
+      "password": "hashed_secret_789",
+      "roles": [
+        "customer"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "zana",
+      "password": "password123",
+      "roles": [
+        "customer"
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Basseey",
+      "password": "password123",
+      "roles": [
+        "customer"
+      ]
+    },
+    {
+      "id": 6,
+      "name": "test",
+      "hash": "21e88f2b22021a820acffd74d28d640217ef66d45ef8948bdac65af4dbb1941abaafe39ee501e234c5c7223fd8b42783db5549084f17d6ce55e670528a68ded0",
+      "salt": "17e33faf391b550f0979d536264fdf2e",
+      "roles": [
+        "customer"
+      ]
+    },
+    {
+      "id": 7,
+      "name": "   uhh",
+      "hash": "ea1a7339710b2eaa387ffdb0578c89dd67fb1b14cceaa4f258d4a1831a95c7dcb1338c951ed767a2298853a2ed020b33b6102efe054c91c52d0dc69d33b7c836",
+      "salt": "027474165ec26b9ac4c342807609a755",
+      "roles": [
+        "customer"
+      ]
+    },
+    {
+      "id": 8,
+      "name": "   uhh",
+      "hash": "ad041a97e195483f2f435e43795028ce4fbcb084ae29be6028a205bbe678453242c0dfa273510ca87b728b3ba7d83f3b54e909178bb4b3db7ade3763331c52a2",
+      "salt": "c36a733a73594aeafe562340f438ce05",
+      "roles": [
+        "customer"
+      ]
+    },
+    {
+      "id": 9,
+      "name": "zeee",
+      "hash": "4c517617f5e09e79f291e74f26a06b5aecdda4000996fd2f006baeb288c172bb1acfd3ea2213caf3d4143baef1569e84f140b1c22ac8ead5f27181e971b0e404",
+      "salt": "fe1bf60fd6771150c2c1ec708c8b5837",
+      "roles": [
+        "customer"
+      ]
+    },
+    {
+      "id": 10,
+      "name": "zeee",
+      "hash": "b0f078d1dfb21df3b715446d6b9e421334ca4c08a2ebe1e93402cbdf683130df64458af249dcce07ec809386d0b485b0f1d9e6d9fb4fa7ee7a26ee8a39aa3c7e",
+      "salt": "0ae4b5adc9d79372a03bf79d9ae895ae",
+      "roles": [
+        "customer"
+      ]
+    },
+    {
+      "id": 11,
+      "name": "prine",
+      "hash": "96be50781e86b5b177eca889102d101e2737eacada19af308cc3567d55498375430648471899295c7a27fa4b442e03571954c9d4db557b2e02e48005fd4bcfe3",
+      "salt": "1d99faa5fc329c75d5460be661d15393",
+      "roles": [
+        "customer"
+      ]
+    },
+    {
+      "id": 12,
+      "name": "prine",
+      "hash": "efd7424123b3efa370bcc9a0b002cd1edce23a0c84a5b5bafeda9805ea355030496e5b72a69f1e5b23c8e76fc06c558889906497a741caccfe8a8bab1f7059a8",
+      "salt": "c535d7990e99c55c8876ab9c4eb22d22",
+      "roles": [
+        "customer"
+      ]
+    },
+    {
+      "id": 13,
+      "name": "eee",
+      "hash": "17f9a2d01c320e002f7853e5ab9fa045a62315cd871611652ecddf57cf23b05f74cae80977df37bb614e1375153463ad12df2ddc978f2cdd251db5267d942414",
+      "salt": "d529380fa03200d470969fa03d08130d",
+      "roles": [
+        "customer"
+      ]
+    },
+    {
+      "id": 14,
+      "name": "eee",
+      "hash": "059225485c5e5456b7af084596965e68c717dd8195c7281d6f5900140090e17aac4018a19f8492aaf46b6ade240bf40dd283e247413564afe8d7430307aa92ce",
+      "salt": "9cb83e4b827ee57dbcc79961e7f5744e",
+      "roles": [
+        "customer"
+      ]
+    },
+    {
+      "id": 15,
+      "name": "Alice Admin",
+      "hash": "e164879e8fc982e67cb2831c0c56939a33c82d3d67b22b0a9a4d031ee5fa6a3657df9ad1f588d526e6f81ea22b28b66951a8f4825e6a31a9df663b4e3b4b4af4",
+      "salt": "ef60eff0d90831d8edb38ed79e4ca814",
+      "roles": [
+        "customer"
+      ]
+    },
+    {
+      "id": 16,
+      "name": "Alice Admin",
+      "hash": "ea698c2d80a47ca08aad07523ac0ed1cadf9db0f7a0ccdcf79061e4708bdfcf4246d05b4c87c1fb411380a3a85914a076d27cf76080e27f35e4fe68aacaa4b33",
+      "salt": "0ffc1072dff2293078dbaf566f710a80",
+      "roles": [
+        "customer"
+      ]
+    }
+  ],
+  "accounts": [
+    {
+      "id": 501,
+      "type": "checking",
+      "balance": 109440,
+      "user_id": 1
+    },
+    {
+      "id": 502,
+      "type": "savings",
+      "balance": 4900,
+      "user_id": 1
+    },
+    {
+      "id": 503,
+      "type": "checking",
+      "balance": 1500,
+      "user_id": 2
+    },
+    {
+      "id": 504,
+      "type": "savings",
+      "balance": 0,
+      "user_id": 2
+    },
+    {
+      "id": 505,
+      "type": "checking",
+      "balance": 510,
+      "user_id": 4
+    },
+    {
+      "id": 506,
+      "type": "checking",
+      "balance": 100,
+      "user_id": 5
+    },
+    {
+      "id": 507,
+      "type": "checking",
+      "balance": 100,
+      "user_id": 6
+    },
+    {
+      "id": 508,
+      "type": "checking",
+      "balance": 100,
+      "user_id": 7
+    },
+    {
+      "id": 509,
+      "type": "checking",
+      "balance": 100,
+      "user_id": 8
+    },
+    {
+      "id": 510,
+      "type": "checking",
+      "balance": 100,
+      "user_id": 9
+    },
+    {
+      "id": 511,
+      "type": "checking",
+      "balance": 100,
+      "user_id": 10
+    },
+    {
+      "id": 512,
+      "type": "checking",
+      "balance": 100,
+      "user_id": 11
+    },
+    {
+      "id": 513,
+      "type": "checking",
+      "balance": 100,
+      "user_id": 12
+    },
+    {
+      "id": 514,
+      "type": "checking",
+      "balance": 100,
+      "user_id": 13
+    },
+    {
+      "id": 515,
+      "type": "checking",
+      "balance": 100,
+      "user_id": 14
+    },
+    {
+      "id": 516,
+      "type": "checking",
+      "balance": 100,
+      "user_id": 15
+    },
+    {
+      "id": 517,
+      "type": "checking",
+      "balance": 100,
+      "user_id": 16
+    }
+  ]
+}
