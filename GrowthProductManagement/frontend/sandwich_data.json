@@ -1,0 +1,5950 @@
+{
+  "users": [
+    {
+      "distinct_id": "8a2ccf82-4ca5-4c10-8a38-81cebb698040",
+      "properties": {
+        "$first_name": "User0",
+        "$last_name": "Test",
+        "$email": "user0@sandwichscale.com",
+        "$created": "2026-01-20T00:57:28.526Z",
+        "favorite_category": "Meat"
+      }
+    },
+    {
+      "distinct_id": "fd4486b1-185d-43c7-9e59-768ced3eefd9",
+      "properties": {
+        "$first_name": "User1",
+        "$last_name": "Test",
+        "$email": "user1@sandwichscale.com",
+        "$created": "2026-01-20T00:57:28.534Z",
+        "favorite_category": "Seafood"
+      }
+    },
+    {
+      "distinct_id": "7c2e87fe-2c4d-453e-a268-5f7b3fa80c75",
+      "properties": {
+        "$first_name": "User2",
+        "$last_name": "Test",
+        "$email": "user2@sandwichscale.com",
+        "$created": "2026-01-20T00:57:28.534Z",
+        "favorite_category": "Vegetarian"
+      }
+    },
+    {
+      "distinct_id": "b9b44d20-66d3-4144-a4d8-fe957532aa3e",
+      "properties": {
+        "$first_name": "User3",
+        "$last_name": "Test",
+        "$email": "user3@sandwichscale.com",
+        "$created": "2026-01-20T00:57:28.534Z",
+        "favorite_category": "Vegetarian"
+      }
+    },
+    {
+      "distinct_id": "c753521a-f836-49c4-b9b1-a85c2f0dffd3",
+      "properties": {
+        "$first_name": "User4",
+        "$last_name": "Test",
+        "$email": "user4@sandwichscale.com",
+        "$created": "2026-01-20T00:57:28.534Z",
+        "favorite_category": "Seafood"
+      }
+    },
+    {
+      "distinct_id": "8a359276-839c-4039-8ad0-0c9d6192c091",
+      "properties": {
+        "$first_name": "User5",
+        "$last_name": "Test",
+        "$email": "user5@sandwichscale.com",
+        "$created": "2026-01-20T00:57:28.534Z",
+        "favorite_category": "Vegetarian"
+      }
+    },
+    {
+      "distinct_id": "511aaaa5-0c66-4d74-a0b6-f6e54ca7abe4",
+      "properties": {
+        "$first_name": "User6",
+        "$last_name": "Test",
+        "$email": "user6@sandwichscale.com",
+        "$created": "2026-01-20T00:57:28.534Z",
+        "favorite_category": "Vegetarian"
+      }
+    },
+    {
+      "distinct_id": "81bf6054-e510-476d-9209-98bb17c91b30",
+      "properties": {
+        "$first_name": "User7",
+        "$last_name": "Test",
+        "$email": "user7@sandwichscale.com",
+        "$created": "2026-01-20T00:57:28.534Z",
+        "favorite_category": "Vegetarian"
+      }
+    },
+    {
+      "distinct_id": "9f2c2e29-6358-49fb-9057-fd149ad8d0e3",
+      "properties": {
+        "$first_name": "User8",
+        "$last_name": "Test",
+        "$email": "user8@sandwichscale.com",
+        "$created": "2026-01-20T00:57:28.534Z",
+        "favorite_category": "Vegetarian"
+      }
+    },
+    {
+      "distinct_id": "015fa400-93d9-4cbd-a907-6032c9747dd4",
+      "properties": {
+        "$first_name": "User9",
+        "$last_name": "Test",
+        "$email": "user9@sandwichscale.com",
+        "$created": "2026-01-20T00:57:28.534Z",
+        "favorite_category": "Vegetarian"
+      }
+    },
+    {
+      "distinct_id": "d0889bec-c86d-44eb-989f-c01cbec4e4cd",
+      "properties": {
+        "$first_name": "User10",
+        "$last_name": "Test",
+        "$email": "user10@sandwichscale.com",
+        "$created": "2026-01-20T00:57:28.534Z",
+        "favorite_category": "Seafood"
+      }
+    },
+    {
+      "distinct_id": "78e2b71a-4134-401d-8db1-b0b47eb2a223",
+      "properties": {
+        "$first_name": "User11",
+        "$last_name": "Test",
+        "$email": "user11@sandwichscale.com",
+        "$created": "2026-01-20T00:57:28.534Z",
+        "favorite_category": "Vegetarian"
+      }
+    },
+    {
+      "distinct_id": "769bcce5-107a-4ef8-86d6-5ace0a77f6e4",
+      "properties": {
+        "$first_name": "User12",
+        "$last_name": "Test",
+        "$email": "user12@sandwichscale.com",
+        "$created": "2026-01-20T00:57:28.534Z",
+        "favorite_category": "Meat"
+      }
+    },
+    {
+      "distinct_id": "2f0901df-d909-4531-b5f6-cff3d6da7f89",
+      "properties": {
+        "$first_name": "User13",
+        "$last_name": "Test",
+        "$email": "user13@sandwichscale.com",
+        "$created": "2026-01-20T00:57:28.534Z",
+        "favorite_category": "Seafood"
+      }
+    },
+    {
+      "distinct_id": "365bdacc-430a-4e6f-9714-234f2f7e4588",
+      "properties": {
+        "$first_name": "User14",
+        "$last_name": "Test",
+        "$email": "user14@sandwichscale.com",
+        "$created": "2026-01-20T00:57:28.534Z",
+        "favorite_category": "Meat"
+      }
+    },
+    {
+      "distinct_id": "a147b4ef-8877-4877-ba58-32eb4c3b9a90",
+      "properties": {
+        "$first_name": "User15",
+        "$last_name": "Test",
+        "$email": "user15@sandwichscale.com",
+        "$created": "2026-01-20T00:57:28.534Z",
+        "favorite_category": "Seafood"
+      }
+    },
+    {
+      "distinct_id": "38b9cf14-24c8-4d61-873b-782c298707d1",
+      "properties": {
+        "$first_name": "User16",
+        "$last_name": "Test",
+        "$email": "user16@sandwichscale.com",
+        "$created": "2026-01-20T00:57:28.534Z",
+        "favorite_category": "Meat"
+      }
+    },
+    {
+      "distinct_id": "1e9cad90-8ab5-46a0-bf36-ad25fdd09b7f",
+      "properties": {
+        "$first_name": "User17",
+        "$last_name": "Test",
+        "$email": "user17@sandwichscale.com",
+        "$created": "2026-01-20T00:57:28.534Z",
+        "favorite_category": "Vegetarian"
+      }
+    },
+    {
+      "distinct_id": "078d528b-3e1c-4944-a28b-f90f62802168",
+      "properties": {
+        "$first_name": "User18",
+        "$last_name": "Test",
+        "$email": "user18@sandwichscale.com",
+        "$created": "2026-01-20T00:57:28.534Z",
+        "favorite_category": "Seafood"
+      }
+    },
+    {
+      "distinct_id": "7e407bf5-61db-4755-ad9c-f983e6f112d0",
+      "properties": {
+        "$first_name": "User19",
+        "$last_name": "Test",
+        "$email": "user19@sandwichscale.com",
+        "$created": "2026-01-20T00:57:28.534Z",
+        "favorite_category": "Seafood"
+      }
+    },
+    {
+      "distinct_id": "a141d139-2180-4095-9674-1314fb64892d",
+      "properties": {
+        "$first_name": "User20",
+        "$last_name": "Test",
+        "$email": "user20@sandwichscale.com",
+        "$created": "2026-01-20T00:57:28.534Z",
+        "favorite_category": "Vegetarian"
+      }
+    },
+    {
+      "distinct_id": "60cabeb6-837c-4430-ab88-50635420fa0c",
+      "properties": {
+        "$first_name": "User21",
+        "$last_name": "Test",
+        "$email": "user21@sandwichscale.com",
+        "$created": "2026-01-20T00:57:28.534Z",
+        "favorite_category": "Seafood"
+      }
+    },
+    {
+      "distinct_id": "1c4cbc7a-9081-4452-a585-16c9916008d5",
+      "properties": {
+        "$first_name": "User22",
+        "$last_name": "Test",
+        "$email": "user22@sandwichscale.com",
+        "$created": "2026-01-20T00:57:28.534Z",
+        "favorite_category": "Meat"
+      }
+    },
+    {
+      "distinct_id": "a9f06ff8-e95e-41c4-aca3-4d6ac52915e6",
+      "properties": {
+        "$first_name": "User23",
+        "$last_name": "Test",
+        "$email": "user23@sandwichscale.com",
+        "$created": "2026-01-20T00:57:28.534Z",
+        "favorite_category": "Vegetarian"
+      }
+    },
+    {
+      "distinct_id": "866d42ed-422e-455f-b321-3b3581714ea0",
+      "properties": {
+        "$first_name": "User24",
+        "$last_name": "Test",
+        "$email": "user24@sandwichscale.com",
+        "$created": "2026-01-20T00:57:28.534Z",
+        "favorite_category": "Vegetarian"
+      }
+    },
+    {
+      "distinct_id": "722d4508-ee17-445f-973c-073ea9d5474b",
+      "properties": {
+        "$first_name": "User25",
+        "$last_name": "Test",
+        "$email": "user25@sandwichscale.com",
+        "$created": "2026-01-20T00:57:28.534Z",
+        "favorite_category": "Meat"
+      }
+    },
+    {
+      "distinct_id": "12776211-f49d-4bcc-b02f-b1a23ae9889f",
+      "properties": {
+        "$first_name": "User26",
+        "$last_name": "Test",
+        "$email": "user26@sandwichscale.com",
+        "$created": "2026-01-20T00:57:28.534Z",
+        "favorite_category": "Meat"
+      }
+    },
+    {
+      "distinct_id": "e6855ebc-8d36-49f3-b78f-1cd33ab2b187",
+      "properties": {
+        "$first_name": "User27",
+        "$last_name": "Test",
+        "$email": "user27@sandwichscale.com",
+        "$created": "2026-01-20T00:57:28.534Z",
+        "favorite_category": "Meat"
+      }
+    },
+    {
+      "distinct_id": "9ca4f3c8-27a7-4932-b03e-875c22ff32a7",
+      "properties": {
+        "$first_name": "User28",
+        "$last_name": "Test",
+        "$email": "user28@sandwichscale.com",
+        "$created": "2026-01-20T00:57:28.534Z",
+        "favorite_category": "Vegetarian"
+      }
+    },
+    {
+      "distinct_id": "4e51e00b-df54-416e-8a2d-0fa463025ce8",
+      "properties": {
+        "$first_name": "User29",
+        "$last_name": "Test",
+        "$email": "user29@sandwichscale.com",
+        "$created": "2026-01-20T00:57:28.534Z",
+        "favorite_category": "Seafood"
+      }
+    },
+    {
+      "distinct_id": "6ec95892-0f4d-4630-acf2-73311f724c96",
+      "properties": {
+        "$first_name": "User30",
+        "$last_name": "Test",
+        "$email": "user30@sandwichscale.com",
+        "$created": "2026-01-20T00:57:28.534Z",
+        "favorite_category": "Meat"
+      }
+    },
+    {
+      "distinct_id": "5d282177-c753-4f6a-8fe7-243eb4456f8f",
+      "properties": {
+        "$first_name": "User31",
+        "$last_name": "Test",
+        "$email": "user31@sandwichscale.com",
+        "$created": "2026-01-20T00:57:28.534Z",
+        "favorite_category": "Meat"
+      }
+    },
+    {
+      "distinct_id": "429976c4-8e65-4d3c-b2d2-edf2472e63fc",
+      "properties": {
+        "$first_name": "User32",
+        "$last_name": "Test",
+        "$email": "user32@sandwichscale.com",
+        "$created": "2026-01-20T00:57:28.534Z",
+        "favorite_category": "Meat"
+      }
+    },
+    {
+      "distinct_id": "94568a5d-c2de-4bd0-a762-220d0f492d43",
+      "properties": {
+        "$first_name": "User33",
+        "$last_name": "Test",
+        "$email": "user33@sandwichscale.com",
+        "$created": "2026-01-20T00:57:28.534Z",
+        "favorite_category": "Vegetarian"
+      }
+    },
+    {
+      "distinct_id": "578b6b1a-0ef4-4cbe-9e36-b18f63d638f3",
+      "properties": {
+        "$first_name": "User34",
+        "$last_name": "Test",
+        "$email": "user34@sandwichscale.com",
+        "$created": "2026-01-20T00:57:28.534Z",
+        "favorite_category": "Vegetarian"
+      }
+    },
+    {
+      "distinct_id": "fba85e9c-25c0-4ff1-a5a1-627c8cbd8e5d",
+      "properties": {
+        "$first_name": "User35",
+        "$last_name": "Test",
+        "$email": "user35@sandwichscale.com",
+        "$created": "2026-01-20T00:57:28.534Z",
+        "favorite_category": "Vegetarian"
+      }
+    },
+    {
+      "distinct_id": "1ec42b7d-b26a-410d-a8b1-e5961c839e64",
+      "properties": {
+        "$first_name": "User36",
+        "$last_name": "Test",
+        "$email": "user36@sandwichscale.com",
+        "$created": "2026-01-20T00:57:28.534Z",
+        "favorite_category": "Seafood"
+      }
+    },
+    {
+      "distinct_id": "d9ab19dd-38fa-46a2-8598-906dc5653c6f",
+      "properties": {
+        "$first_name": "User37",
+        "$last_name": "Test",
+        "$email": "user37@sandwichscale.com",
+        "$created": "2026-01-20T00:57:28.534Z",
+        "favorite_category": "Vegetarian"
+      }
+    },
+    {
+      "distinct_id": "8ac3413b-2d7b-432f-b069-f4576179e5e2",
+      "properties": {
+        "$first_name": "User38",
+        "$last_name": "Test",
+        "$email": "user38@sandwichscale.com",
+        "$created": "2026-01-20T00:57:28.534Z",
+        "favorite_category": "Seafood"
+      }
+    },
+    {
+      "distinct_id": "f94fceb8-5dae-4ceb-a8f6-f9d43db3c0fb",
+      "properties": {
+        "$first_name": "User39",
+        "$last_name": "Test",
+        "$email": "user39@sandwichscale.com",
+        "$created": "2026-01-20T00:57:28.534Z",
+        "favorite_category": "Seafood"
+      }
+    },
+    {
+      "distinct_id": "607ed9c2-db9e-4b37-85fb-a6b959f36bfd",
+      "properties": {
+        "$first_name": "User40",
+        "$last_name": "Test",
+        "$email": "user40@sandwichscale.com",
+        "$created": "2026-01-20T00:57:28.534Z",
+        "favorite_category": "Vegetarian"
+      }
+    },
+    {
+      "distinct_id": "0070f73d-5d39-4e00-82fa-53d357162089",
+      "properties": {
+        "$first_name": "User41",
+        "$last_name": "Test",
+        "$email": "user41@sandwichscale.com",
+        "$created": "2026-01-20T00:57:28.534Z",
+        "favorite_category": "Meat"
+      }
+    },
+    {
+      "distinct_id": "477dbfbb-d962-4783-9d5d-1a077dccc84e",
+      "properties": {
+        "$first_name": "User42",
+        "$last_name": "Test",
+        "$email": "user42@sandwichscale.com",
+        "$created": "2026-01-20T00:57:28.534Z",
+        "favorite_category": "Vegetarian"
+      }
+    },
+    {
+      "distinct_id": "3da65568-126a-4214-be37-abf9ba1d01b6",
+      "properties": {
+        "$first_name": "User43",
+        "$last_name": "Test",
+        "$email": "user43@sandwichscale.com",
+        "$created": "2026-01-20T00:57:28.534Z",
+        "favorite_category": "Meat"
+      }
+    },
+    {
+      "distinct_id": "c09dfbd0-c33e-468b-8774-5727a51d38ac",
+      "properties": {
+        "$first_name": "User44",
+        "$last_name": "Test",
+        "$email": "user44@sandwichscale.com",
+        "$created": "2026-01-20T00:57:28.534Z",
+        "favorite_category": "Vegetarian"
+      }
+    },
+    {
+      "distinct_id": "b7be7593-270e-4dba-9f5c-3f1875de98b0",
+      "properties": {
+        "$first_name": "User45",
+        "$last_name": "Test",
+        "$email": "user45@sandwichscale.com",
+        "$created": "2026-01-20T00:57:28.534Z",
+        "favorite_category": "Vegetarian"
+      }
+    },
+    {
+      "distinct_id": "b2412b6d-52f3-476b-9041-e4fdd0f156a7",
+      "properties": {
+        "$first_name": "User46",
+        "$last_name": "Test",
+        "$email": "user46@sandwichscale.com",
+        "$created": "2026-01-20T00:57:28.534Z",
+        "favorite_category": "Vegetarian"
+      }
+    },
+    {
+      "distinct_id": "f45b6f4c-f3f6-4483-bbc8-1edbb65bf7ad",
+      "properties": {
+        "$first_name": "User47",
+        "$last_name": "Test",
+        "$email": "user47@sandwichscale.com",
+        "$created": "2026-01-20T00:57:28.534Z",
+        "favorite_category": "Vegetarian"
+      }
+    },
+    {
+      "distinct_id": "489d36bb-aa8b-4de4-88ff-d60cfa6b9f08",
+      "properties": {
+        "$first_name": "User48",
+        "$last_name": "Test",
+        "$email": "user48@sandwichscale.com",
+        "$created": "2026-01-20T00:57:28.534Z",
+        "favorite_category": "Vegetarian"
+      }
+    },
+    {
+      "distinct_id": "5ab2a00f-534d-4c9e-86ec-80e7be936481",
+      "properties": {
+        "$first_name": "User49",
+        "$last_name": "Test",
+        "$email": "user49@sandwichscale.com",
+        "$created": "2026-01-20T00:57:28.534Z",
+        "favorite_category": "Meat"
+      }
+    }
+  ],
+  "events": [
+    {
+      "event": "App Open",
+      "properties": {
+        "distinct_id": "8a2ccf82-4ca5-4c10-8a38-81cebb698040",
+        "time": 1768525048535,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "platform": "Web"
+      }
+    },
+    {
+      "event": "App Open",
+      "properties": {
+        "distinct_id": "8a2ccf82-4ca5-4c10-8a38-81cebb698040",
+        "time": 1768352248535,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "platform": "Web"
+      }
+    },
+    {
+      "event": "View Menu",
+      "properties": {
+        "distinct_id": "8a2ccf82-4ca5-4c10-8a38-81cebb698040",
+        "time": 1768352277258,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "sort_by": "Price"
+      }
+    },
+    {
+      "event": "Select Item",
+      "properties": {
+        "distinct_id": "8a2ccf82-4ca5-4c10-8a38-81cebb698040",
+        "time": 1768352323892,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "item_name": "Caprese",
+        "category": "Vegetarian",
+        "price": 8.25
+      }
+    },
+    {
+      "event": "Add to Cart",
+      "properties": {
+        "distinct_id": "8a2ccf82-4ca5-4c10-8a38-81cebb698040",
+        "time": 1768352333805,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "item_name": "Caprese",
+        "category": "Vegetarian",
+        "toppings_count": 0,
+        "premium_bread": true
+      }
+    },
+    {
+      "event": "Purchase Complete",
+      "properties": {
+        "distinct_id": "8a2ccf82-4ca5-4c10-8a38-81cebb698040",
+        "time": 1768352373387,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "item_name": "Caprese",
+        "total_amount": 8.25,
+        "payment_method": "Apple Pay"
+      }
+    },
+    {
+      "event": "App Open",
+      "properties": {
+        "distinct_id": "8a2ccf82-4ca5-4c10-8a38-81cebb698040",
+        "time": 1766710648535,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "platform": "Web"
+      }
+    },
+    {
+      "event": "View Menu",
+      "properties": {
+        "distinct_id": "8a2ccf82-4ca5-4c10-8a38-81cebb698040",
+        "time": 1766710667564,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "sort_by": "Price"
+      }
+    },
+    {
+      "event": "Select Item",
+      "properties": {
+        "distinct_id": "8a2ccf82-4ca5-4c10-8a38-81cebb698040",
+        "time": 1766710698898,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "item_name": "Veggie Delight",
+        "category": "Vegetarian",
+        "price": 8
+      }
+    },
+    {
+      "event": "Add to Cart",
+      "properties": {
+        "distinct_id": "8a2ccf82-4ca5-4c10-8a38-81cebb698040",
+        "time": 1766710702629,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "item_name": "Veggie Delight",
+        "category": "Vegetarian",
+        "toppings_count": 2,
+        "premium_bread": true
+      }
+    },
+    {
+      "event": "Purchase Complete",
+      "properties": {
+        "distinct_id": "8a2ccf82-4ca5-4c10-8a38-81cebb698040",
+        "time": 1766710785357,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "item_name": "Veggie Delight",
+        "total_amount": 9,
+        "payment_method": "Credit Card"
+      }
+    },
+    {
+      "event": "App Open",
+      "properties": {
+        "distinct_id": "fd4486b1-185d-43c7-9e59-768ced3eefd9",
+        "time": 1766797048536,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "platform": "iOS"
+      }
+    },
+    {
+      "event": "App Open",
+      "properties": {
+        "distinct_id": "fd4486b1-185d-43c7-9e59-768ced3eefd9",
+        "time": 1768438648536,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "platform": "Android"
+      }
+    },
+    {
+      "event": "View Menu",
+      "properties": {
+        "distinct_id": "fd4486b1-185d-43c7-9e59-768ced3eefd9",
+        "time": 1768438671118,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "sort_by": "Recommended"
+      }
+    },
+    {
+      "event": "Select Item",
+      "properties": {
+        "distinct_id": "fd4486b1-185d-43c7-9e59-768ced3eefd9",
+        "time": 1768438729873,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "item_name": "Veggie Delight",
+        "category": "Vegetarian",
+        "price": 8
+      }
+    },
+    {
+      "event": "Add to Cart",
+      "properties": {
+        "distinct_id": "fd4486b1-185d-43c7-9e59-768ced3eefd9",
+        "time": 1768438735115,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "item_name": "Veggie Delight",
+        "category": "Vegetarian",
+        "toppings_count": 3,
+        "premium_bread": false
+      }
+    },
+    {
+      "event": "Purchase Complete",
+      "properties": {
+        "distinct_id": "fd4486b1-185d-43c7-9e59-768ced3eefd9",
+        "time": 1768438843821,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "item_name": "Veggie Delight",
+        "total_amount": 9.5,
+        "payment_method": "Apple Pay"
+      }
+    },
+    {
+      "event": "App Open",
+      "properties": {
+        "distinct_id": "fd4486b1-185d-43c7-9e59-768ced3eefd9",
+        "time": 1766365048537,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "platform": "Web"
+      }
+    },
+    {
+      "event": "View Menu",
+      "properties": {
+        "distinct_id": "fd4486b1-185d-43c7-9e59-768ced3eefd9",
+        "time": 1766365066771,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "sort_by": "Recommended"
+      }
+    },
+    {
+      "event": "Select Item",
+      "properties": {
+        "distinct_id": "fd4486b1-185d-43c7-9e59-768ced3eefd9",
+        "time": 1766365075743,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "item_name": "Spicy Italian",
+        "category": "Meat",
+        "price": 9
+      }
+    },
+    {
+      "event": "App Open",
+      "properties": {
+        "distinct_id": "7c2e87fe-2c4d-453e-a268-5f7b3fa80c75",
+        "time": 1768784248537,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "platform": "Android"
+      }
+    },
+    {
+      "event": "View Menu",
+      "properties": {
+        "distinct_id": "7c2e87fe-2c4d-453e-a268-5f7b3fa80c75",
+        "time": 1768784258713,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "sort_by": "Popularity"
+      }
+    },
+    {
+      "event": "App Open",
+      "properties": {
+        "distinct_id": "7c2e87fe-2c4d-453e-a268-5f7b3fa80c75",
+        "time": 1766278648537,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "platform": "Android"
+      }
+    },
+    {
+      "event": "View Menu",
+      "properties": {
+        "distinct_id": "7c2e87fe-2c4d-453e-a268-5f7b3fa80c75",
+        "time": 1766278664025,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "sort_by": "Popularity"
+      }
+    },
+    {
+      "event": "App Open",
+      "properties": {
+        "distinct_id": "7c2e87fe-2c4d-453e-a268-5f7b3fa80c75",
+        "time": 1767229048537,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "platform": "Android"
+      }
+    },
+    {
+      "event": "View Menu",
+      "properties": {
+        "distinct_id": "7c2e87fe-2c4d-453e-a268-5f7b3fa80c75",
+        "time": 1767229071137,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "sort_by": "Price"
+      }
+    },
+    {
+      "event": "App Open",
+      "properties": {
+        "distinct_id": "7c2e87fe-2c4d-453e-a268-5f7b3fa80c75",
+        "time": 1766710648537,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "platform": "iOS"
+      }
+    },
+    {
+      "event": "View Menu",
+      "properties": {
+        "distinct_id": "7c2e87fe-2c4d-453e-a268-5f7b3fa80c75",
+        "time": 1766710662224,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "sort_by": "Recommended"
+      }
+    },
+    {
+      "event": "App Open",
+      "properties": {
+        "distinct_id": "b9b44d20-66d3-4144-a4d8-fe957532aa3e",
+        "time": 1767056248538,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "platform": "Web"
+      }
+    },
+    {
+      "event": "View Menu",
+      "properties": {
+        "distinct_id": "b9b44d20-66d3-4144-a4d8-fe957532aa3e",
+        "time": 1767056259585,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "sort_by": "Price"
+      }
+    },
+    {
+      "event": "Select Item",
+      "properties": {
+        "distinct_id": "b9b44d20-66d3-4144-a4d8-fe957532aa3e",
+        "time": 1767056306146,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "item_name": "Spicy Italian",
+        "category": "Meat",
+        "price": 9
+      }
+    },
+    {
+      "event": "Add to Cart",
+      "properties": {
+        "distinct_id": "b9b44d20-66d3-4144-a4d8-fe957532aa3e",
+        "time": 1767056315129,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "item_name": "Spicy Italian",
+        "category": "Meat",
+        "toppings_count": 1,
+        "premium_bread": false
+      }
+    },
+    {
+      "event": "Purchase Complete",
+      "properties": {
+        "distinct_id": "b9b44d20-66d3-4144-a4d8-fe957532aa3e",
+        "time": 1767056350030,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "item_name": "Spicy Italian",
+        "total_amount": 9.5,
+        "payment_method": "Credit Card"
+      }
+    },
+    {
+      "event": "App Open",
+      "properties": {
+        "distinct_id": "b9b44d20-66d3-4144-a4d8-fe957532aa3e",
+        "time": 1766365048538,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "platform": "Web"
+      }
+    },
+    {
+      "event": "View Menu",
+      "properties": {
+        "distinct_id": "b9b44d20-66d3-4144-a4d8-fe957532aa3e",
+        "time": 1766365063772,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "sort_by": "Recommended"
+      }
+    },
+    {
+      "event": "Select Item",
+      "properties": {
+        "distinct_id": "b9b44d20-66d3-4144-a4d8-fe957532aa3e",
+        "time": 1766365098586,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "item_name": "Veggie Delight",
+        "category": "Vegetarian",
+        "price": 8
+      }
+    },
+    {
+      "event": "Add to Cart",
+      "properties": {
+        "distinct_id": "b9b44d20-66d3-4144-a4d8-fe957532aa3e",
+        "time": 1766365100826,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "item_name": "Veggie Delight",
+        "category": "Vegetarian",
+        "toppings_count": 0,
+        "premium_bread": false
+      }
+    },
+    {
+      "event": "Purchase Complete",
+      "properties": {
+        "distinct_id": "b9b44d20-66d3-4144-a4d8-fe957532aa3e",
+        "time": 1766365150113,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "item_name": "Veggie Delight",
+        "total_amount": 8,
+        "payment_method": "Apple Pay"
+      }
+    },
+    {
+      "event": "App Open",
+      "properties": {
+        "distinct_id": "c753521a-f836-49c4-b9b1-a85c2f0dffd3",
+        "time": 1766969848538,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "platform": "Android"
+      }
+    },
+    {
+      "event": "View Menu",
+      "properties": {
+        "distinct_id": "c753521a-f836-49c4-b9b1-a85c2f0dffd3",
+        "time": 1766969855682,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "sort_by": "Price"
+      }
+    },
+    {
+      "event": "Select Item",
+      "properties": {
+        "distinct_id": "c753521a-f836-49c4-b9b1-a85c2f0dffd3",
+        "time": 1766969913472,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "item_name": "Turkey Club",
+        "category": "Meat",
+        "price": 9.5
+      }
+    },
+    {
+      "event": "Add to Cart",
+      "properties": {
+        "distinct_id": "c753521a-f836-49c4-b9b1-a85c2f0dffd3",
+        "time": 1766969915758,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "item_name": "Turkey Club",
+        "category": "Meat",
+        "toppings_count": 1,
+        "premium_bread": false
+      }
+    },
+    {
+      "event": "App Open",
+      "properties": {
+        "distinct_id": "8a359276-839c-4039-8ad0-0c9d6192c091",
+        "time": 1766624248538,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "platform": "iOS"
+      }
+    },
+    {
+      "event": "View Menu",
+      "properties": {
+        "distinct_id": "8a359276-839c-4039-8ad0-0c9d6192c091",
+        "time": 1766624259653,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "sort_by": "Recommended"
+      }
+    },
+    {
+      "event": "Select Item",
+      "properties": {
+        "distinct_id": "8a359276-839c-4039-8ad0-0c9d6192c091",
+        "time": 1766624293711,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "item_name": "Spicy Italian",
+        "category": "Meat",
+        "price": 9
+      }
+    },
+    {
+      "event": "Add to Cart",
+      "properties": {
+        "distinct_id": "8a359276-839c-4039-8ad0-0c9d6192c091",
+        "time": 1766624300857,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "item_name": "Spicy Italian",
+        "category": "Meat",
+        "toppings_count": 0,
+        "premium_bread": false
+      }
+    },
+    {
+      "event": "App Open",
+      "properties": {
+        "distinct_id": "8a359276-839c-4039-8ad0-0c9d6192c091",
+        "time": 1767142648538,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "platform": "Web"
+      }
+    },
+    {
+      "event": "View Menu",
+      "properties": {
+        "distinct_id": "8a359276-839c-4039-8ad0-0c9d6192c091",
+        "time": 1767142666258,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "sort_by": "Popularity"
+      }
+    },
+    {
+      "event": "Select Item",
+      "properties": {
+        "distinct_id": "8a359276-839c-4039-8ad0-0c9d6192c091",
+        "time": 1767142673272,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "item_name": "Veggie Delight",
+        "category": "Vegetarian",
+        "price": 8
+      }
+    },
+    {
+      "event": "Add to Cart",
+      "properties": {
+        "distinct_id": "8a359276-839c-4039-8ad0-0c9d6192c091",
+        "time": 1767142679649,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "item_name": "Veggie Delight",
+        "category": "Vegetarian",
+        "toppings_count": 1,
+        "premium_bread": false
+      }
+    },
+    {
+      "event": "Purchase Complete",
+      "properties": {
+        "distinct_id": "8a359276-839c-4039-8ad0-0c9d6192c091",
+        "time": 1767142707679,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "item_name": "Veggie Delight",
+        "total_amount": 8.5,
+        "payment_method": "PayPal"
+      }
+    },
+    {
+      "event": "App Open",
+      "properties": {
+        "distinct_id": "8a359276-839c-4039-8ad0-0c9d6192c091",
+        "time": 1767229048538,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "platform": "Android"
+      }
+    },
+    {
+      "event": "App Open",
+      "properties": {
+        "distinct_id": "8a359276-839c-4039-8ad0-0c9d6192c091",
+        "time": 1766451448538,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "platform": "Web"
+      }
+    },
+    {
+      "event": "View Menu",
+      "properties": {
+        "distinct_id": "8a359276-839c-4039-8ad0-0c9d6192c091",
+        "time": 1766451459069,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "sort_by": "Price"
+      }
+    },
+    {
+      "event": "Select Item",
+      "properties": {
+        "distinct_id": "8a359276-839c-4039-8ad0-0c9d6192c091",
+        "time": 1766451498305,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "item_name": "Tuna Melt",
+        "category": "Seafood",
+        "price": 8.75
+      }
+    },
+    {
+      "event": "App Open",
+      "properties": {
+        "distinct_id": "8a359276-839c-4039-8ad0-0c9d6192c091",
+        "time": 1766710648538,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "platform": "Android"
+      }
+    },
+    {
+      "event": "View Menu",
+      "properties": {
+        "distinct_id": "8a359276-839c-4039-8ad0-0c9d6192c091",
+        "time": 1766710671652,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "sort_by": "Popularity"
+      }
+    },
+    {
+      "event": "Select Item",
+      "properties": {
+        "distinct_id": "8a359276-839c-4039-8ad0-0c9d6192c091",
+        "time": 1766710721378,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "item_name": "Classic BLT",
+        "category": "Meat",
+        "price": 8.5
+      }
+    },
+    {
+      "event": "App Open",
+      "properties": {
+        "distinct_id": "511aaaa5-0c66-4d74-a0b6-f6e54ca7abe4",
+        "time": 1767401848538,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "platform": "Web"
+      }
+    },
+    {
+      "event": "View Menu",
+      "properties": {
+        "distinct_id": "511aaaa5-0c66-4d74-a0b6-f6e54ca7abe4",
+        "time": 1767401877031,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "sort_by": "Recommended"
+      }
+    },
+    {
+      "event": "Select Item",
+      "properties": {
+        "distinct_id": "511aaaa5-0c66-4d74-a0b6-f6e54ca7abe4",
+        "time": 1767401884818,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "item_name": "Caprese",
+        "category": "Vegetarian",
+        "price": 8.25
+      }
+    },
+    {
+      "event": "App Open",
+      "properties": {
+        "distinct_id": "511aaaa5-0c66-4d74-a0b6-f6e54ca7abe4",
+        "time": 1767488248538,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "platform": "Android"
+      }
+    },
+    {
+      "event": "View Menu",
+      "properties": {
+        "distinct_id": "511aaaa5-0c66-4d74-a0b6-f6e54ca7abe4",
+        "time": 1767488258449,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "sort_by": "Recommended"
+      }
+    },
+    {
+      "event": "App Open",
+      "properties": {
+        "distinct_id": "511aaaa5-0c66-4d74-a0b6-f6e54ca7abe4",
+        "time": 1768093048538,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "platform": "iOS"
+      }
+    },
+    {
+      "event": "View Menu",
+      "properties": {
+        "distinct_id": "511aaaa5-0c66-4d74-a0b6-f6e54ca7abe4",
+        "time": 1768093076875,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "sort_by": "Price"
+      }
+    },
+    {
+      "event": "Select Item",
+      "properties": {
+        "distinct_id": "511aaaa5-0c66-4d74-a0b6-f6e54ca7abe4",
+        "time": 1768093124183,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "item_name": "Turkey Club",
+        "category": "Meat",
+        "price": 9.5
+      }
+    },
+    {
+      "event": "App Open",
+      "properties": {
+        "distinct_id": "511aaaa5-0c66-4d74-a0b6-f6e54ca7abe4",
+        "time": 1768525048538,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "platform": "iOS"
+      }
+    },
+    {
+      "event": "View Menu",
+      "properties": {
+        "distinct_id": "511aaaa5-0c66-4d74-a0b6-f6e54ca7abe4",
+        "time": 1768525060165,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "sort_by": "Popularity"
+      }
+    },
+    {
+      "event": "Select Item",
+      "properties": {
+        "distinct_id": "511aaaa5-0c66-4d74-a0b6-f6e54ca7abe4",
+        "time": 1768525098861,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "item_name": "Turkey Club",
+        "category": "Meat",
+        "price": 9.5
+      }
+    },
+    {
+      "event": "Add to Cart",
+      "properties": {
+        "distinct_id": "511aaaa5-0c66-4d74-a0b6-f6e54ca7abe4",
+        "time": 1768525101258,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "item_name": "Turkey Club",
+        "category": "Meat",
+        "toppings_count": 1,
+        "premium_bread": false
+      }
+    },
+    {
+      "event": "Purchase Complete",
+      "properties": {
+        "distinct_id": "511aaaa5-0c66-4d74-a0b6-f6e54ca7abe4",
+        "time": 1768525183486,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "item_name": "Turkey Club",
+        "total_amount": 10,
+        "payment_method": "Apple Pay"
+      }
+    },
+    {
+      "event": "App Open",
+      "properties": {
+        "distinct_id": "511aaaa5-0c66-4d74-a0b6-f6e54ca7abe4",
+        "time": 1767920248538,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "platform": "Android"
+      }
+    },
+    {
+      "event": "View Menu",
+      "properties": {
+        "distinct_id": "511aaaa5-0c66-4d74-a0b6-f6e54ca7abe4",
+        "time": 1767920275256,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "sort_by": "Recommended"
+      }
+    },
+    {
+      "event": "Select Item",
+      "properties": {
+        "distinct_id": "511aaaa5-0c66-4d74-a0b6-f6e54ca7abe4",
+        "time": 1767920311381,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "item_name": "Veggie Delight",
+        "category": "Vegetarian",
+        "price": 8
+      }
+    },
+    {
+      "event": "Add to Cart",
+      "properties": {
+        "distinct_id": "511aaaa5-0c66-4d74-a0b6-f6e54ca7abe4",
+        "time": 1767920315576,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "item_name": "Veggie Delight",
+        "category": "Vegetarian",
+        "toppings_count": 1,
+        "premium_bread": false
+      }
+    },
+    {
+      "event": "Purchase Complete",
+      "properties": {
+        "distinct_id": "511aaaa5-0c66-4d74-a0b6-f6e54ca7abe4",
+        "time": 1767920385782,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "item_name": "Veggie Delight",
+        "total_amount": 8.5,
+        "payment_method": "Credit Card"
+      }
+    },
+    {
+      "event": "App Open",
+      "properties": {
+        "distinct_id": "81bf6054-e510-476d-9209-98bb17c91b30",
+        "time": 1768006648538,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "platform": "Web"
+      }
+    },
+    {
+      "event": "View Menu",
+      "properties": {
+        "distinct_id": "81bf6054-e510-476d-9209-98bb17c91b30",
+        "time": 1768006656189,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "sort_by": "Price"
+      }
+    },
+    {
+      "event": "Select Item",
+      "properties": {
+        "distinct_id": "81bf6054-e510-476d-9209-98bb17c91b30",
+        "time": 1768006699812,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "item_name": "Caprese",
+        "category": "Vegetarian",
+        "price": 8.25
+      }
+    },
+    {
+      "event": "App Open",
+      "properties": {
+        "distinct_id": "81bf6054-e510-476d-9209-98bb17c91b30",
+        "time": 1767833848538,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "platform": "Android"
+      }
+    },
+    {
+      "event": "View Menu",
+      "properties": {
+        "distinct_id": "81bf6054-e510-476d-9209-98bb17c91b30",
+        "time": 1767833858149,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "sort_by": "Popularity"
+      }
+    },
+    {
+      "event": "Select Item",
+      "properties": {
+        "distinct_id": "81bf6054-e510-476d-9209-98bb17c91b30",
+        "time": 1767833879085,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "item_name": "Turkey Club",
+        "category": "Meat",
+        "price": 9.5
+      }
+    },
+    {
+      "event": "Add to Cart",
+      "properties": {
+        "distinct_id": "81bf6054-e510-476d-9209-98bb17c91b30",
+        "time": 1767833887577,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "item_name": "Turkey Club",
+        "category": "Meat",
+        "toppings_count": 1,
+        "premium_bread": false
+      }
+    },
+    {
+      "event": "App Open",
+      "properties": {
+        "distinct_id": "81bf6054-e510-476d-9209-98bb17c91b30",
+        "time": 1768352248538,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "platform": "Android"
+      }
+    },
+    {
+      "event": "App Open",
+      "properties": {
+        "distinct_id": "81bf6054-e510-476d-9209-98bb17c91b30",
+        "time": 1768611448538,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "platform": "iOS"
+      }
+    },
+    {
+      "event": "App Open",
+      "properties": {
+        "distinct_id": "81bf6054-e510-476d-9209-98bb17c91b30",
+        "time": 1767574648538,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "platform": "Android"
+      }
+    },
+    {
+      "event": "View Menu",
+      "properties": {
+        "distinct_id": "81bf6054-e510-476d-9209-98bb17c91b30",
+        "time": 1767574657287,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "sort_by": "Popularity"
+      }
+    },
+    {
+      "event": "Select Item",
+      "properties": {
+        "distinct_id": "81bf6054-e510-476d-9209-98bb17c91b30",
+        "time": 1767574671439,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "item_name": "Tuna Melt",
+        "category": "Seafood",
+        "price": 8.75
+      }
+    },
+    {
+      "event": "Add to Cart",
+      "properties": {
+        "distinct_id": "81bf6054-e510-476d-9209-98bb17c91b30",
+        "time": 1767574677983,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "item_name": "Tuna Melt",
+        "category": "Seafood",
+        "toppings_count": 3,
+        "premium_bread": false
+      }
+    },
+    {
+      "event": "Purchase Complete",
+      "properties": {
+        "distinct_id": "81bf6054-e510-476d-9209-98bb17c91b30",
+        "time": 1767574767029,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "item_name": "Tuna Melt",
+        "total_amount": 10.25,
+        "payment_method": "Credit Card"
+      }
+    },
+    {
+      "event": "App Open",
+      "properties": {
+        "distinct_id": "9f2c2e29-6358-49fb-9057-fd149ad8d0e3",
+        "time": 1767401848538,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "platform": "Android"
+      }
+    },
+    {
+      "event": "View Menu",
+      "properties": {
+        "distinct_id": "9f2c2e29-6358-49fb-9057-fd149ad8d0e3",
+        "time": 1767401860536,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "sort_by": "Price"
+      }
+    },
+    {
+      "event": "Select Item",
+      "properties": {
+        "distinct_id": "9f2c2e29-6358-49fb-9057-fd149ad8d0e3",
+        "time": 1767401883352,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "item_name": "Caprese",
+        "category": "Vegetarian",
+        "price": 8.25
+      }
+    },
+    {
+      "event": "Add to Cart",
+      "properties": {
+        "distinct_id": "9f2c2e29-6358-49fb-9057-fd149ad8d0e3",
+        "time": 1767401888425,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "item_name": "Caprese",
+        "category": "Vegetarian",
+        "toppings_count": 0,
+        "premium_bread": false
+      }
+    },
+    {
+      "event": "App Open",
+      "properties": {
+        "distinct_id": "9f2c2e29-6358-49fb-9057-fd149ad8d0e3",
+        "time": 1767920248538,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "platform": "iOS"
+      }
+    },
+    {
+      "event": "View Menu",
+      "properties": {
+        "distinct_id": "9f2c2e29-6358-49fb-9057-fd149ad8d0e3",
+        "time": 1767920262754,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "sort_by": "Recommended"
+      }
+    },
+    {
+      "event": "Select Item",
+      "properties": {
+        "distinct_id": "9f2c2e29-6358-49fb-9057-fd149ad8d0e3",
+        "time": 1767920279117,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "item_name": "Classic BLT",
+        "category": "Meat",
+        "price": 8.5
+      }
+    },
+    {
+      "event": "Add to Cart",
+      "properties": {
+        "distinct_id": "9f2c2e29-6358-49fb-9057-fd149ad8d0e3",
+        "time": 1767920282187,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "item_name": "Classic BLT",
+        "category": "Meat",
+        "toppings_count": 0,
+        "premium_bread": false
+      }
+    },
+    {
+      "event": "Purchase Complete",
+      "properties": {
+        "distinct_id": "9f2c2e29-6358-49fb-9057-fd149ad8d0e3",
+        "time": 1767920339629,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "item_name": "Classic BLT",
+        "total_amount": 8.5,
+        "payment_method": "Apple Pay"
+      }
+    },
+    {
+      "event": "App Open",
+      "properties": {
+        "distinct_id": "9f2c2e29-6358-49fb-9057-fd149ad8d0e3",
+        "time": 1767833848538,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "platform": "Web"
+      }
+    },
+    {
+      "event": "View Menu",
+      "properties": {
+        "distinct_id": "9f2c2e29-6358-49fb-9057-fd149ad8d0e3",
+        "time": 1767833867734,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "sort_by": "Recommended"
+      }
+    },
+    {
+      "event": "Select Item",
+      "properties": {
+        "distinct_id": "9f2c2e29-6358-49fb-9057-fd149ad8d0e3",
+        "time": 1767833925034,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "item_name": "Spicy Italian",
+        "category": "Meat",
+        "price": 9
+      }
+    },
+    {
+      "event": "Add to Cart",
+      "properties": {
+        "distinct_id": "9f2c2e29-6358-49fb-9057-fd149ad8d0e3",
+        "time": 1767833928300,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "item_name": "Spicy Italian",
+        "category": "Meat",
+        "toppings_count": 1,
+        "premium_bread": false
+      }
+    },
+    {
+      "event": "App Open",
+      "properties": {
+        "distinct_id": "9f2c2e29-6358-49fb-9057-fd149ad8d0e3",
+        "time": 1768352248538,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "platform": "iOS"
+      }
+    },
+    {
+      "event": "View Menu",
+      "properties": {
+        "distinct_id": "9f2c2e29-6358-49fb-9057-fd149ad8d0e3",
+        "time": 1768352274857,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "sort_by": "Popularity"
+      }
+    },
+    {
+      "event": "Select Item",
+      "properties": {
+        "distinct_id": "9f2c2e29-6358-49fb-9057-fd149ad8d0e3",
+        "time": 1768352322310,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "item_name": "Tuna Melt",
+        "category": "Seafood",
+        "price": 8.75
+      }
+    },
+    {
+      "event": "App Open",
+      "properties": {
+        "distinct_id": "015fa400-93d9-4cbd-a907-6032c9747dd4",
+        "time": 1768179448538,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "platform": "Android"
+      }
+    },
+    {
+      "event": "View Menu",
+      "properties": {
+        "distinct_id": "015fa400-93d9-4cbd-a907-6032c9747dd4",
+        "time": 1768179461117,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "sort_by": "Price"
+      }
+    },
+    {
+      "event": "App Open",
+      "properties": {
+        "distinct_id": "015fa400-93d9-4cbd-a907-6032c9747dd4",
+        "time": 1766710648538,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "platform": "Web"
+      }
+    },
+    {
+      "event": "App Open",
+      "properties": {
+        "distinct_id": "d0889bec-c86d-44eb-989f-c01cbec4e4cd",
+        "time": 1767315448538,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "platform": "Web"
+      }
+    },
+    {
+      "event": "View Menu",
+      "properties": {
+        "distinct_id": "d0889bec-c86d-44eb-989f-c01cbec4e4cd",
+        "time": 1767315463448,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "sort_by": "Recommended"
+      }
+    },
+    {
+      "event": "Select Item",
+      "properties": {
+        "distinct_id": "d0889bec-c86d-44eb-989f-c01cbec4e4cd",
+        "time": 1767315494960,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "item_name": "Classic BLT",
+        "category": "Meat",
+        "price": 8.5
+      }
+    },
+    {
+      "event": "Add to Cart",
+      "properties": {
+        "distinct_id": "d0889bec-c86d-44eb-989f-c01cbec4e4cd",
+        "time": 1767315504181,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "item_name": "Classic BLT",
+        "category": "Meat",
+        "toppings_count": 0,
+        "premium_bread": true
+      }
+    },
+    {
+      "event": "App Open",
+      "properties": {
+        "distinct_id": "d0889bec-c86d-44eb-989f-c01cbec4e4cd",
+        "time": 1767315448538,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "platform": "iOS"
+      }
+    },
+    {
+      "event": "View Menu",
+      "properties": {
+        "distinct_id": "d0889bec-c86d-44eb-989f-c01cbec4e4cd",
+        "time": 1767315474762,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "sort_by": "Popularity"
+      }
+    },
+    {
+      "event": "Select Item",
+      "properties": {
+        "distinct_id": "d0889bec-c86d-44eb-989f-c01cbec4e4cd",
+        "time": 1767315530152,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "item_name": "Veggie Delight",
+        "category": "Vegetarian",
+        "price": 8
+      }
+    },
+    {
+      "event": "App Open",
+      "properties": {
+        "distinct_id": "d0889bec-c86d-44eb-989f-c01cbec4e4cd",
+        "time": 1766451448538,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "platform": "iOS"
+      }
+    },
+    {
+      "event": "View Menu",
+      "properties": {
+        "distinct_id": "d0889bec-c86d-44eb-989f-c01cbec4e4cd",
+        "time": 1766451455938,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "sort_by": "Recommended"
+      }
+    },
+    {
+      "event": "Select Item",
+      "properties": {
+        "distinct_id": "d0889bec-c86d-44eb-989f-c01cbec4e4cd",
+        "time": 1766451505712,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "item_name": "Veggie Delight",
+        "category": "Vegetarian",
+        "price": 8
+      }
+    },
+    {
+      "event": "Add to Cart",
+      "properties": {
+        "distinct_id": "d0889bec-c86d-44eb-989f-c01cbec4e4cd",
+        "time": 1766451511015,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "item_name": "Veggie Delight",
+        "category": "Vegetarian",
+        "toppings_count": 0,
+        "premium_bread": false
+      }
+    },
+    {
+      "event": "App Open",
+      "properties": {
+        "distinct_id": "78e2b71a-4134-401d-8db1-b0b47eb2a223",
+        "time": 1766797048538,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "platform": "Web"
+      }
+    },
+    {
+      "event": "View Menu",
+      "properties": {
+        "distinct_id": "78e2b71a-4134-401d-8db1-b0b47eb2a223",
+        "time": 1766797054324,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "sort_by": "Popularity"
+      }
+    },
+    {
+      "event": "Select Item",
+      "properties": {
+        "distinct_id": "78e2b71a-4134-401d-8db1-b0b47eb2a223",
+        "time": 1766797075945,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "item_name": "Tuna Melt",
+        "category": "Seafood",
+        "price": 8.75
+      }
+    },
+    {
+      "event": "Add to Cart",
+      "properties": {
+        "distinct_id": "78e2b71a-4134-401d-8db1-b0b47eb2a223",
+        "time": 1766797085417,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "item_name": "Tuna Melt",
+        "category": "Seafood",
+        "toppings_count": 0,
+        "premium_bread": false
+      }
+    },
+    {
+      "event": "App Open",
+      "properties": {
+        "distinct_id": "78e2b71a-4134-401d-8db1-b0b47eb2a223",
+        "time": 1767488248538,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "platform": "Web"
+      }
+    },
+    {
+      "event": "View Menu",
+      "properties": {
+        "distinct_id": "78e2b71a-4134-401d-8db1-b0b47eb2a223",
+        "time": 1767488266554,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "sort_by": "Popularity"
+      }
+    },
+    {
+      "event": "App Open",
+      "properties": {
+        "distinct_id": "78e2b71a-4134-401d-8db1-b0b47eb2a223",
+        "time": 1766451448538,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "platform": "Android"
+      }
+    },
+    {
+      "event": "View Menu",
+      "properties": {
+        "distinct_id": "78e2b71a-4134-401d-8db1-b0b47eb2a223",
+        "time": 1766451456655,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "sort_by": "Price"
+      }
+    },
+    {
+      "event": "Select Item",
+      "properties": {
+        "distinct_id": "78e2b71a-4134-401d-8db1-b0b47eb2a223",
+        "time": 1766451482133,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "item_name": "Turkey Club",
+        "category": "Meat",
+        "price": 9.5
+      }
+    },
+    {
+      "event": "Add to Cart",
+      "properties": {
+        "distinct_id": "78e2b71a-4134-401d-8db1-b0b47eb2a223",
+        "time": 1766451486056,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "item_name": "Turkey Club",
+        "category": "Meat",
+        "toppings_count": 1,
+        "premium_bread": false
+      }
+    },
+    {
+      "event": "App Open",
+      "properties": {
+        "distinct_id": "78e2b71a-4134-401d-8db1-b0b47eb2a223",
+        "time": 1768525048538,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "platform": "iOS"
+      }
+    },
+    {
+      "event": "View Menu",
+      "properties": {
+        "distinct_id": "78e2b71a-4134-401d-8db1-b0b47eb2a223",
+        "time": 1768525069193,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "sort_by": "Price"
+      }
+    },
+    {
+      "event": "App Open",
+      "properties": {
+        "distinct_id": "769bcce5-107a-4ef8-86d6-5ace0a77f6e4",
+        "time": 1766537848538,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "platform": "iOS"
+      }
+    },
+    {
+      "event": "View Menu",
+      "properties": {
+        "distinct_id": "769bcce5-107a-4ef8-86d6-5ace0a77f6e4",
+        "time": 1766537858255,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "sort_by": "Price"
+      }
+    },
+    {
+      "event": "Select Item",
+      "properties": {
+        "distinct_id": "769bcce5-107a-4ef8-86d6-5ace0a77f6e4",
+        "time": 1766537881867,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "item_name": "Caprese",
+        "category": "Vegetarian",
+        "price": 8.25
+      }
+    },
+    {
+      "event": "Add to Cart",
+      "properties": {
+        "distinct_id": "769bcce5-107a-4ef8-86d6-5ace0a77f6e4",
+        "time": 1766537885139,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "item_name": "Caprese",
+        "category": "Vegetarian",
+        "toppings_count": 2,
+        "premium_bread": false
+      }
+    },
+    {
+      "event": "App Open",
+      "properties": {
+        "distinct_id": "769bcce5-107a-4ef8-86d6-5ace0a77f6e4",
+        "time": 1766537848538,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "platform": "iOS"
+      }
+    },
+    {
+      "event": "View Menu",
+      "properties": {
+        "distinct_id": "769bcce5-107a-4ef8-86d6-5ace0a77f6e4",
+        "time": 1766537872070,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "sort_by": "Recommended"
+      }
+    },
+    {
+      "event": "Select Item",
+      "properties": {
+        "distinct_id": "769bcce5-107a-4ef8-86d6-5ace0a77f6e4",
+        "time": 1766537895681,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "item_name": "Turkey Club",
+        "category": "Meat",
+        "price": 9.5
+      }
+    },
+    {
+      "event": "Add to Cart",
+      "properties": {
+        "distinct_id": "769bcce5-107a-4ef8-86d6-5ace0a77f6e4",
+        "time": 1766537902765,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "item_name": "Turkey Club",
+        "category": "Meat",
+        "toppings_count": 0,
+        "premium_bread": false
+      }
+    },
+    {
+      "event": "Purchase Complete",
+      "properties": {
+        "distinct_id": "769bcce5-107a-4ef8-86d6-5ace0a77f6e4",
+        "time": 1766538015239,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "item_name": "Turkey Club",
+        "total_amount": 9.5,
+        "payment_method": "Credit Card"
+      }
+    },
+    {
+      "event": "App Open",
+      "properties": {
+        "distinct_id": "769bcce5-107a-4ef8-86d6-5ace0a77f6e4",
+        "time": 1767401848538,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "platform": "Web"
+      }
+    },
+    {
+      "event": "View Menu",
+      "properties": {
+        "distinct_id": "769bcce5-107a-4ef8-86d6-5ace0a77f6e4",
+        "time": 1767401868572,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "sort_by": "Recommended"
+      }
+    },
+    {
+      "event": "Select Item",
+      "properties": {
+        "distinct_id": "769bcce5-107a-4ef8-86d6-5ace0a77f6e4",
+        "time": 1767401925542,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "item_name": "Veggie Delight",
+        "category": "Vegetarian",
+        "price": 8
+      }
+    },
+    {
+      "event": "App Open",
+      "properties": {
+        "distinct_id": "769bcce5-107a-4ef8-86d6-5ace0a77f6e4",
+        "time": 1766883448538,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "platform": "Android"
+      }
+    },
+    {
+      "event": "View Menu",
+      "properties": {
+        "distinct_id": "769bcce5-107a-4ef8-86d6-5ace0a77f6e4",
+        "time": 1766883470666,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "sort_by": "Price"
+      }
+    },
+    {
+      "event": "Select Item",
+      "properties": {
+        "distinct_id": "769bcce5-107a-4ef8-86d6-5ace0a77f6e4",
+        "time": 1766883495060,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "item_name": "Classic BLT",
+        "category": "Meat",
+        "price": 8.5
+      }
+    },
+    {
+      "event": "App Open",
+      "properties": {
+        "distinct_id": "769bcce5-107a-4ef8-86d6-5ace0a77f6e4",
+        "time": 1766969848538,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "platform": "Web"
+      }
+    },
+    {
+      "event": "View Menu",
+      "properties": {
+        "distinct_id": "769bcce5-107a-4ef8-86d6-5ace0a77f6e4",
+        "time": 1766969876983,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "sort_by": "Price"
+      }
+    },
+    {
+      "event": "App Open",
+      "properties": {
+        "distinct_id": "2f0901df-d909-4531-b5f6-cff3d6da7f89",
+        "time": 1768093048538,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "platform": "iOS"
+      }
+    },
+    {
+      "event": "View Menu",
+      "properties": {
+        "distinct_id": "2f0901df-d909-4531-b5f6-cff3d6da7f89",
+        "time": 1768093061201,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "sort_by": "Popularity"
+      }
+    },
+    {
+      "event": "Select Item",
+      "properties": {
+        "distinct_id": "2f0901df-d909-4531-b5f6-cff3d6da7f89",
+        "time": 1768093082359,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "item_name": "Caprese",
+        "category": "Vegetarian",
+        "price": 8.25
+      }
+    },
+    {
+      "event": "Add to Cart",
+      "properties": {
+        "distinct_id": "2f0901df-d909-4531-b5f6-cff3d6da7f89",
+        "time": 1768093087416,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "item_name": "Caprese",
+        "category": "Vegetarian",
+        "toppings_count": 0,
+        "premium_bread": false
+      }
+    },
+    {
+      "event": "App Open",
+      "properties": {
+        "distinct_id": "2f0901df-d909-4531-b5f6-cff3d6da7f89",
+        "time": 1768179448538,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "platform": "iOS"
+      }
+    },
+    {
+      "event": "View Menu",
+      "properties": {
+        "distinct_id": "2f0901df-d909-4531-b5f6-cff3d6da7f89",
+        "time": 1768179478090,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "sort_by": "Price"
+      }
+    },
+    {
+      "event": "Select Item",
+      "properties": {
+        "distinct_id": "2f0901df-d909-4531-b5f6-cff3d6da7f89",
+        "time": 1768179484184,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "item_name": "Classic BLT",
+        "category": "Meat",
+        "price": 8.5
+      }
+    },
+    {
+      "event": "Add to Cart",
+      "properties": {
+        "distinct_id": "2f0901df-d909-4531-b5f6-cff3d6da7f89",
+        "time": 1768179493986,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "item_name": "Classic BLT",
+        "category": "Meat",
+        "toppings_count": 0,
+        "premium_bread": false
+      }
+    },
+    {
+      "event": "App Open",
+      "properties": {
+        "distinct_id": "365bdacc-430a-4e6f-9714-234f2f7e4588",
+        "time": 1768179448538,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "platform": "Web"
+      }
+    },
+    {
+      "event": "View Menu",
+      "properties": {
+        "distinct_id": "365bdacc-430a-4e6f-9714-234f2f7e4588",
+        "time": 1768179465629,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "sort_by": "Popularity"
+      }
+    },
+    {
+      "event": "Select Item",
+      "properties": {
+        "distinct_id": "365bdacc-430a-4e6f-9714-234f2f7e4588",
+        "time": 1768179514243,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "item_name": "Spicy Italian",
+        "category": "Meat",
+        "price": 9
+      }
+    },
+    {
+      "event": "App Open",
+      "properties": {
+        "distinct_id": "365bdacc-430a-4e6f-9714-234f2f7e4588",
+        "time": 1768352248538,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "platform": "Android"
+      }
+    },
+    {
+      "event": "View Menu",
+      "properties": {
+        "distinct_id": "365bdacc-430a-4e6f-9714-234f2f7e4588",
+        "time": 1768352263663,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "sort_by": "Price"
+      }
+    },
+    {
+      "event": "App Open",
+      "properties": {
+        "distinct_id": "365bdacc-430a-4e6f-9714-234f2f7e4588",
+        "time": 1766969848538,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "platform": "iOS"
+      }
+    },
+    {
+      "event": "View Menu",
+      "properties": {
+        "distinct_id": "365bdacc-430a-4e6f-9714-234f2f7e4588",
+        "time": 1766969861277,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "sort_by": "Price"
+      }
+    },
+    {
+      "event": "Select Item",
+      "properties": {
+        "distinct_id": "365bdacc-430a-4e6f-9714-234f2f7e4588",
+        "time": 1766969920359,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "item_name": "Caprese",
+        "category": "Vegetarian",
+        "price": 8.25
+      }
+    },
+    {
+      "event": "App Open",
+      "properties": {
+        "distinct_id": "365bdacc-430a-4e6f-9714-234f2f7e4588",
+        "time": 1767315448538,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "platform": "iOS"
+      }
+    },
+    {
+      "event": "App Open",
+      "properties": {
+        "distinct_id": "a147b4ef-8877-4877-ba58-32eb4c3b9a90",
+        "time": 1767315448538,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "platform": "iOS"
+      }
+    },
+    {
+      "event": "View Menu",
+      "properties": {
+        "distinct_id": "a147b4ef-8877-4877-ba58-32eb4c3b9a90",
+        "time": 1767315458914,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "sort_by": "Price"
+      }
+    },
+    {
+      "event": "Select Item",
+      "properties": {
+        "distinct_id": "a147b4ef-8877-4877-ba58-32eb4c3b9a90",
+        "time": 1767315472236,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "item_name": "Tuna Melt",
+        "category": "Seafood",
+        "price": 8.75
+      }
+    },
+    {
+      "event": "Add to Cart",
+      "properties": {
+        "distinct_id": "a147b4ef-8877-4877-ba58-32eb4c3b9a90",
+        "time": 1767315477262,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "item_name": "Tuna Melt",
+        "category": "Seafood",
+        "toppings_count": 0,
+        "premium_bread": false
+      }
+    },
+    {
+      "event": "App Open",
+      "properties": {
+        "distinct_id": "a147b4ef-8877-4877-ba58-32eb4c3b9a90",
+        "time": 1768179448538,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "platform": "Web"
+      }
+    },
+    {
+      "event": "View Menu",
+      "properties": {
+        "distinct_id": "a147b4ef-8877-4877-ba58-32eb4c3b9a90",
+        "time": 1768179467652,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "sort_by": "Price"
+      }
+    },
+    {
+      "event": "Select Item",
+      "properties": {
+        "distinct_id": "a147b4ef-8877-4877-ba58-32eb4c3b9a90",
+        "time": 1768179525964,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "item_name": "Veggie Delight",
+        "category": "Vegetarian",
+        "price": 8
+      }
+    },
+    {
+      "event": "Add to Cart",
+      "properties": {
+        "distinct_id": "a147b4ef-8877-4877-ba58-32eb4c3b9a90",
+        "time": 1768179534561,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "item_name": "Veggie Delight",
+        "category": "Vegetarian",
+        "toppings_count": 1,
+        "premium_bread": true
+      }
+    },
+    {
+      "event": "App Open",
+      "properties": {
+        "distinct_id": "a147b4ef-8877-4877-ba58-32eb4c3b9a90",
+        "time": 1766365048538,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "platform": "Web"
+      }
+    },
+    {
+      "event": "View Menu",
+      "properties": {
+        "distinct_id": "a147b4ef-8877-4877-ba58-32eb4c3b9a90",
+        "time": 1766365069198,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "sort_by": "Price"
+      }
+    },
+    {
+      "event": "Select Item",
+      "properties": {
+        "distinct_id": "a147b4ef-8877-4877-ba58-32eb4c3b9a90",
+        "time": 1766365083695,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "item_name": "Tuna Melt",
+        "category": "Seafood",
+        "price": 8.75
+      }
+    },
+    {
+      "event": "Add to Cart",
+      "properties": {
+        "distinct_id": "a147b4ef-8877-4877-ba58-32eb4c3b9a90",
+        "time": 1766365091298,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "item_name": "Tuna Melt",
+        "category": "Seafood",
+        "toppings_count": 2,
+        "premium_bread": true
+      }
+    },
+    {
+      "event": "App Open",
+      "properties": {
+        "distinct_id": "a147b4ef-8877-4877-ba58-32eb4c3b9a90",
+        "time": 1766969848538,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "platform": "Android"
+      }
+    },
+    {
+      "event": "View Menu",
+      "properties": {
+        "distinct_id": "a147b4ef-8877-4877-ba58-32eb4c3b9a90",
+        "time": 1766969867190,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "sort_by": "Price"
+      }
+    },
+    {
+      "event": "Select Item",
+      "properties": {
+        "distinct_id": "a147b4ef-8877-4877-ba58-32eb4c3b9a90",
+        "time": 1766969882393,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "item_name": "Turkey Club",
+        "category": "Meat",
+        "price": 9.5
+      }
+    },
+    {
+      "event": "App Open",
+      "properties": {
+        "distinct_id": "38b9cf14-24c8-4d61-873b-782c298707d1",
+        "time": 1768870648538,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "platform": "Android"
+      }
+    },
+    {
+      "event": "View Menu",
+      "properties": {
+        "distinct_id": "38b9cf14-24c8-4d61-873b-782c298707d1",
+        "time": 1768870670501,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "sort_by": "Popularity"
+      }
+    },
+    {
+      "event": "Select Item",
+      "properties": {
+        "distinct_id": "38b9cf14-24c8-4d61-873b-782c298707d1",
+        "time": 1768870692817,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "item_name": "Caprese",
+        "category": "Vegetarian",
+        "price": 8.25
+      }
+    },
+    {
+      "event": "App Open",
+      "properties": {
+        "distinct_id": "1e9cad90-8ab5-46a0-bf36-ad25fdd09b7f",
+        "time": 1768525048538,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "platform": "Web"
+      }
+    },
+    {
+      "event": "App Open",
+      "properties": {
+        "distinct_id": "1e9cad90-8ab5-46a0-bf36-ad25fdd09b7f",
+        "time": 1768352248538,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "platform": "Android"
+      }
+    },
+    {
+      "event": "View Menu",
+      "properties": {
+        "distinct_id": "1e9cad90-8ab5-46a0-bf36-ad25fdd09b7f",
+        "time": 1768352258433,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "sort_by": "Popularity"
+      }
+    },
+    {
+      "event": "Select Item",
+      "properties": {
+        "distinct_id": "1e9cad90-8ab5-46a0-bf36-ad25fdd09b7f",
+        "time": 1768352286204,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "item_name": "Classic BLT",
+        "category": "Meat",
+        "price": 8.5
+      }
+    },
+    {
+      "event": "Add to Cart",
+      "properties": {
+        "distinct_id": "1e9cad90-8ab5-46a0-bf36-ad25fdd09b7f",
+        "time": 1768352291725,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "item_name": "Classic BLT",
+        "category": "Meat",
+        "toppings_count": 2,
+        "premium_bread": true
+      }
+    },
+    {
+      "event": "Purchase Complete",
+      "properties": {
+        "distinct_id": "1e9cad90-8ab5-46a0-bf36-ad25fdd09b7f",
+        "time": 1768352334657,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "item_name": "Classic BLT",
+        "total_amount": 9.5,
+        "payment_method": "PayPal"
+      }
+    },
+    {
+      "event": "App Open",
+      "properties": {
+        "distinct_id": "1e9cad90-8ab5-46a0-bf36-ad25fdd09b7f",
+        "time": 1768870648538,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "platform": "Web"
+      }
+    },
+    {
+      "event": "View Menu",
+      "properties": {
+        "distinct_id": "1e9cad90-8ab5-46a0-bf36-ad25fdd09b7f",
+        "time": 1768870673836,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "sort_by": "Price"
+      }
+    },
+    {
+      "event": "Select Item",
+      "properties": {
+        "distinct_id": "1e9cad90-8ab5-46a0-bf36-ad25fdd09b7f",
+        "time": 1768870700119,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "item_name": "Tuna Melt",
+        "category": "Seafood",
+        "price": 8.75
+      }
+    },
+    {
+      "event": "Add to Cart",
+      "properties": {
+        "distinct_id": "1e9cad90-8ab5-46a0-bf36-ad25fdd09b7f",
+        "time": 1768870705780,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "item_name": "Tuna Melt",
+        "category": "Seafood",
+        "toppings_count": 0,
+        "premium_bread": true
+      }
+    },
+    {
+      "event": "App Open",
+      "properties": {
+        "distinct_id": "078d528b-3e1c-4944-a28b-f90f62802168",
+        "time": 1768352248538,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "platform": "Web"
+      }
+    },
+    {
+      "event": "View Menu",
+      "properties": {
+        "distinct_id": "078d528b-3e1c-4944-a28b-f90f62802168",
+        "time": 1768352266102,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "sort_by": "Recommended"
+      }
+    },
+    {
+      "event": "Select Item",
+      "properties": {
+        "distinct_id": "078d528b-3e1c-4944-a28b-f90f62802168",
+        "time": 1768352313405,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "item_name": "Classic BLT",
+        "category": "Meat",
+        "price": 8.5
+      }
+    },
+    {
+      "event": "App Open",
+      "properties": {
+        "distinct_id": "078d528b-3e1c-4944-a28b-f90f62802168",
+        "time": 1766969848538,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "platform": "Web"
+      }
+    },
+    {
+      "event": "App Open",
+      "properties": {
+        "distinct_id": "078d528b-3e1c-4944-a28b-f90f62802168",
+        "time": 1766624248538,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "platform": "Web"
+      }
+    },
+    {
+      "event": "View Menu",
+      "properties": {
+        "distinct_id": "078d528b-3e1c-4944-a28b-f90f62802168",
+        "time": 1766624262254,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "sort_by": "Recommended"
+      }
+    },
+    {
+      "event": "Select Item",
+      "properties": {
+        "distinct_id": "078d528b-3e1c-4944-a28b-f90f62802168",
+        "time": 1766624317926,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "item_name": "Caprese",
+        "category": "Vegetarian",
+        "price": 8.25
+      }
+    },
+    {
+      "event": "Add to Cart",
+      "properties": {
+        "distinct_id": "078d528b-3e1c-4944-a28b-f90f62802168",
+        "time": 1766624321692,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "item_name": "Caprese",
+        "category": "Vegetarian",
+        "toppings_count": 1,
+        "premium_bread": false
+      }
+    },
+    {
+      "event": "Purchase Complete",
+      "properties": {
+        "distinct_id": "078d528b-3e1c-4944-a28b-f90f62802168",
+        "time": 1766624349792,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "item_name": "Caprese",
+        "total_amount": 8.75,
+        "payment_method": "PayPal"
+      }
+    },
+    {
+      "event": "App Open",
+      "properties": {
+        "distinct_id": "078d528b-3e1c-4944-a28b-f90f62802168",
+        "time": 1766624248538,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "platform": "Android"
+      }
+    },
+    {
+      "event": "View Menu",
+      "properties": {
+        "distinct_id": "078d528b-3e1c-4944-a28b-f90f62802168",
+        "time": 1766624258138,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "sort_by": "Popularity"
+      }
+    },
+    {
+      "event": "Select Item",
+      "properties": {
+        "distinct_id": "078d528b-3e1c-4944-a28b-f90f62802168",
+        "time": 1766624298430,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "item_name": "Turkey Club",
+        "category": "Meat",
+        "price": 9.5
+      }
+    },
+    {
+      "event": "Add to Cart",
+      "properties": {
+        "distinct_id": "078d528b-3e1c-4944-a28b-f90f62802168",
+        "time": 1766624301347,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "item_name": "Turkey Club",
+        "category": "Meat",
+        "toppings_count": 1,
+        "premium_bread": false
+      }
+    },
+    {
+      "event": "Purchase Complete",
+      "properties": {
+        "distinct_id": "078d528b-3e1c-4944-a28b-f90f62802168",
+        "time": 1766624360143,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "item_name": "Turkey Club",
+        "total_amount": 10,
+        "payment_method": "PayPal"
+      }
+    },
+    {
+      "event": "App Open",
+      "properties": {
+        "distinct_id": "078d528b-3e1c-4944-a28b-f90f62802168",
+        "time": 1766624248538,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "platform": "iOS"
+      }
+    },
+    {
+      "event": "View Menu",
+      "properties": {
+        "distinct_id": "078d528b-3e1c-4944-a28b-f90f62802168",
+        "time": 1766624276351,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "sort_by": "Popularity"
+      }
+    },
+    {
+      "event": "Select Item",
+      "properties": {
+        "distinct_id": "078d528b-3e1c-4944-a28b-f90f62802168",
+        "time": 1766624312136,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "item_name": "Classic BLT",
+        "category": "Meat",
+        "price": 8.5
+      }
+    },
+    {
+      "event": "Add to Cart",
+      "properties": {
+        "distinct_id": "078d528b-3e1c-4944-a28b-f90f62802168",
+        "time": 1766624319821,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "item_name": "Classic BLT",
+        "category": "Meat",
+        "toppings_count": 0,
+        "premium_bread": false
+      }
+    },
+    {
+      "event": "App Open",
+      "properties": {
+        "distinct_id": "7e407bf5-61db-4755-ad9c-f983e6f112d0",
+        "time": 1768006648538,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "platform": "Web"
+      }
+    },
+    {
+      "event": "View Menu",
+      "properties": {
+        "distinct_id": "7e407bf5-61db-4755-ad9c-f983e6f112d0",
+        "time": 1768006666149,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "sort_by": "Price"
+      }
+    },
+    {
+      "event": "Select Item",
+      "properties": {
+        "distinct_id": "7e407bf5-61db-4755-ad9c-f983e6f112d0",
+        "time": 1768006700614,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "item_name": "Spicy Italian",
+        "category": "Meat",
+        "price": 9
+      }
+    },
+    {
+      "event": "App Open",
+      "properties": {
+        "distinct_id": "7e407bf5-61db-4755-ad9c-f983e6f112d0",
+        "time": 1766278648538,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "platform": "Web"
+      }
+    },
+    {
+      "event": "View Menu",
+      "properties": {
+        "distinct_id": "7e407bf5-61db-4755-ad9c-f983e6f112d0",
+        "time": 1766278661875,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "sort_by": "Popularity"
+      }
+    },
+    {
+      "event": "Select Item",
+      "properties": {
+        "distinct_id": "7e407bf5-61db-4755-ad9c-f983e6f112d0",
+        "time": 1766278687475,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "item_name": "Caprese",
+        "category": "Vegetarian",
+        "price": 8.25
+      }
+    },
+    {
+      "event": "App Open",
+      "properties": {
+        "distinct_id": "7e407bf5-61db-4755-ad9c-f983e6f112d0",
+        "time": 1766710648538,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "platform": "Web"
+      }
+    },
+    {
+      "event": "View Menu",
+      "properties": {
+        "distinct_id": "7e407bf5-61db-4755-ad9c-f983e6f112d0",
+        "time": 1766710653599,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "sort_by": "Price"
+      }
+    },
+    {
+      "event": "Select Item",
+      "properties": {
+        "distinct_id": "7e407bf5-61db-4755-ad9c-f983e6f112d0",
+        "time": 1766710671758,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "item_name": "Tuna Melt",
+        "category": "Seafood",
+        "price": 8.75
+      }
+    },
+    {
+      "event": "Add to Cart",
+      "properties": {
+        "distinct_id": "7e407bf5-61db-4755-ad9c-f983e6f112d0",
+        "time": 1766710675874,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "item_name": "Tuna Melt",
+        "category": "Seafood",
+        "toppings_count": 0,
+        "premium_bread": false
+      }
+    },
+    {
+      "event": "App Open",
+      "properties": {
+        "distinct_id": "7e407bf5-61db-4755-ad9c-f983e6f112d0",
+        "time": 1767833848538,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "platform": "Android"
+      }
+    },
+    {
+      "event": "View Menu",
+      "properties": {
+        "distinct_id": "7e407bf5-61db-4755-ad9c-f983e6f112d0",
+        "time": 1767833877743,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "sort_by": "Popularity"
+      }
+    },
+    {
+      "event": "Select Item",
+      "properties": {
+        "distinct_id": "7e407bf5-61db-4755-ad9c-f983e6f112d0",
+        "time": 1767833914421,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "item_name": "Classic BLT",
+        "category": "Meat",
+        "price": 8.5
+      }
+    },
+    {
+      "event": "Add to Cart",
+      "properties": {
+        "distinct_id": "7e407bf5-61db-4755-ad9c-f983e6f112d0",
+        "time": 1767833918384,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "item_name": "Classic BLT",
+        "category": "Meat",
+        "toppings_count": 1,
+        "premium_bread": true
+      }
+    },
+    {
+      "event": "Purchase Complete",
+      "properties": {
+        "distinct_id": "7e407bf5-61db-4755-ad9c-f983e6f112d0",
+        "time": 1767833973248,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "item_name": "Classic BLT",
+        "total_amount": 9,
+        "payment_method": "PayPal"
+      }
+    },
+    {
+      "event": "App Open",
+      "properties": {
+        "distinct_id": "7e407bf5-61db-4755-ad9c-f983e6f112d0",
+        "time": 1767315448538,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "platform": "iOS"
+      }
+    },
+    {
+      "event": "App Open",
+      "properties": {
+        "distinct_id": "a141d139-2180-4095-9674-1314fb64892d",
+        "time": 1768179448539,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "platform": "Web"
+      }
+    },
+    {
+      "event": "View Menu",
+      "properties": {
+        "distinct_id": "a141d139-2180-4095-9674-1314fb64892d",
+        "time": 1768179468930,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "sort_by": "Recommended"
+      }
+    },
+    {
+      "event": "App Open",
+      "properties": {
+        "distinct_id": "a141d139-2180-4095-9674-1314fb64892d",
+        "time": 1767661048539,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "platform": "Android"
+      }
+    },
+    {
+      "event": "View Menu",
+      "properties": {
+        "distinct_id": "a141d139-2180-4095-9674-1314fb64892d",
+        "time": 1767661072619,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "sort_by": "Popularity"
+      }
+    },
+    {
+      "event": "Select Item",
+      "properties": {
+        "distinct_id": "a141d139-2180-4095-9674-1314fb64892d",
+        "time": 1767661106929,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "item_name": "Turkey Club",
+        "category": "Meat",
+        "price": 9.5
+      }
+    },
+    {
+      "event": "App Open",
+      "properties": {
+        "distinct_id": "a141d139-2180-4095-9674-1314fb64892d",
+        "time": 1768265848539,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "platform": "Android"
+      }
+    },
+    {
+      "event": "View Menu",
+      "properties": {
+        "distinct_id": "a141d139-2180-4095-9674-1314fb64892d",
+        "time": 1768265872808,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "sort_by": "Recommended"
+      }
+    },
+    {
+      "event": "App Open",
+      "properties": {
+        "distinct_id": "60cabeb6-837c-4430-ab88-50635420fa0c",
+        "time": 1768611448539,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "platform": "iOS"
+      }
+    },
+    {
+      "event": "View Menu",
+      "properties": {
+        "distinct_id": "60cabeb6-837c-4430-ab88-50635420fa0c",
+        "time": 1768611469730,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "sort_by": "Price"
+      }
+    },
+    {
+      "event": "Select Item",
+      "properties": {
+        "distinct_id": "60cabeb6-837c-4430-ab88-50635420fa0c",
+        "time": 1768611497340,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "item_name": "Veggie Delight",
+        "category": "Vegetarian",
+        "price": 8
+      }
+    },
+    {
+      "event": "Add to Cart",
+      "properties": {
+        "distinct_id": "60cabeb6-837c-4430-ab88-50635420fa0c",
+        "time": 1768611500489,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "item_name": "Veggie Delight",
+        "category": "Vegetarian",
+        "toppings_count": 1,
+        "premium_bread": false
+      }
+    },
+    {
+      "event": "App Open",
+      "properties": {
+        "distinct_id": "1c4cbc7a-9081-4452-a585-16c9916008d5",
+        "time": 1768525048539,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "platform": "iOS"
+      }
+    },
+    {
+      "event": "View Menu",
+      "properties": {
+        "distinct_id": "1c4cbc7a-9081-4452-a585-16c9916008d5",
+        "time": 1768525066231,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "sort_by": "Popularity"
+      }
+    },
+    {
+      "event": "Select Item",
+      "properties": {
+        "distinct_id": "1c4cbc7a-9081-4452-a585-16c9916008d5",
+        "time": 1768525121538,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "item_name": "Classic BLT",
+        "category": "Meat",
+        "price": 8.5
+      }
+    },
+    {
+      "event": "Add to Cart",
+      "properties": {
+        "distinct_id": "1c4cbc7a-9081-4452-a585-16c9916008d5",
+        "time": 1768525124793,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "item_name": "Classic BLT",
+        "category": "Meat",
+        "toppings_count": 0,
+        "premium_bread": false
+      }
+    },
+    {
+      "event": "Purchase Complete",
+      "properties": {
+        "distinct_id": "1c4cbc7a-9081-4452-a585-16c9916008d5",
+        "time": 1768525180361,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "item_name": "Classic BLT",
+        "total_amount": 8.5,
+        "payment_method": "Credit Card"
+      }
+    },
+    {
+      "event": "App Open",
+      "properties": {
+        "distinct_id": "1c4cbc7a-9081-4452-a585-16c9916008d5",
+        "time": 1768611448539,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "platform": "iOS"
+      }
+    },
+    {
+      "event": "View Menu",
+      "properties": {
+        "distinct_id": "1c4cbc7a-9081-4452-a585-16c9916008d5",
+        "time": 1768611476216,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "sort_by": "Price"
+      }
+    },
+    {
+      "event": "Select Item",
+      "properties": {
+        "distinct_id": "1c4cbc7a-9081-4452-a585-16c9916008d5",
+        "time": 1768611533456,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "item_name": "Classic BLT",
+        "category": "Meat",
+        "price": 8.5
+      }
+    },
+    {
+      "event": "App Open",
+      "properties": {
+        "distinct_id": "1c4cbc7a-9081-4452-a585-16c9916008d5",
+        "time": 1766365048539,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "platform": "iOS"
+      }
+    },
+    {
+      "event": "View Menu",
+      "properties": {
+        "distinct_id": "1c4cbc7a-9081-4452-a585-16c9916008d5",
+        "time": 1766365054479,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "sort_by": "Recommended"
+      }
+    },
+    {
+      "event": "App Open",
+      "properties": {
+        "distinct_id": "a9f06ff8-e95e-41c4-aca3-4d6ac52915e6",
+        "time": 1768352248539,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "platform": "iOS"
+      }
+    },
+    {
+      "event": "View Menu",
+      "properties": {
+        "distinct_id": "a9f06ff8-e95e-41c4-aca3-4d6ac52915e6",
+        "time": 1768352265811,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "sort_by": "Recommended"
+      }
+    },
+    {
+      "event": "Select Item",
+      "properties": {
+        "distinct_id": "a9f06ff8-e95e-41c4-aca3-4d6ac52915e6",
+        "time": 1768352290551,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "item_name": "Classic BLT",
+        "category": "Meat",
+        "price": 8.5
+      }
+    },
+    {
+      "event": "Add to Cart",
+      "properties": {
+        "distinct_id": "a9f06ff8-e95e-41c4-aca3-4d6ac52915e6",
+        "time": 1768352293360,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "item_name": "Classic BLT",
+        "category": "Meat",
+        "toppings_count": 0,
+        "premium_bread": false
+      }
+    },
+    {
+      "event": "App Open",
+      "properties": {
+        "distinct_id": "a9f06ff8-e95e-41c4-aca3-4d6ac52915e6",
+        "time": 1768352248539,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "platform": "iOS"
+      }
+    },
+    {
+      "event": "View Menu",
+      "properties": {
+        "distinct_id": "a9f06ff8-e95e-41c4-aca3-4d6ac52915e6",
+        "time": 1768352262010,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "sort_by": "Popularity"
+      }
+    },
+    {
+      "event": "Select Item",
+      "properties": {
+        "distinct_id": "a9f06ff8-e95e-41c4-aca3-4d6ac52915e6",
+        "time": 1768352291679,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "item_name": "Caprese",
+        "category": "Vegetarian",
+        "price": 8.25
+      }
+    },
+    {
+      "event": "App Open",
+      "properties": {
+        "distinct_id": "a9f06ff8-e95e-41c4-aca3-4d6ac52915e6",
+        "time": 1768525048539,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "platform": "Android"
+      }
+    },
+    {
+      "event": "View Menu",
+      "properties": {
+        "distinct_id": "a9f06ff8-e95e-41c4-aca3-4d6ac52915e6",
+        "time": 1768525053588,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "sort_by": "Popularity"
+      }
+    },
+    {
+      "event": "Select Item",
+      "properties": {
+        "distinct_id": "a9f06ff8-e95e-41c4-aca3-4d6ac52915e6",
+        "time": 1768525102533,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "item_name": "Classic BLT",
+        "category": "Meat",
+        "price": 8.5
+      }
+    },
+    {
+      "event": "App Open",
+      "properties": {
+        "distinct_id": "a9f06ff8-e95e-41c4-aca3-4d6ac52915e6",
+        "time": 1767574648539,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "platform": "Web"
+      }
+    },
+    {
+      "event": "View Menu",
+      "properties": {
+        "distinct_id": "a9f06ff8-e95e-41c4-aca3-4d6ac52915e6",
+        "time": 1767574661082,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "sort_by": "Price"
+      }
+    },
+    {
+      "event": "Select Item",
+      "properties": {
+        "distinct_id": "a9f06ff8-e95e-41c4-aca3-4d6ac52915e6",
+        "time": 1767574711007,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "item_name": "Caprese",
+        "category": "Vegetarian",
+        "price": 8.25
+      }
+    },
+    {
+      "event": "Add to Cart",
+      "properties": {
+        "distinct_id": "a9f06ff8-e95e-41c4-aca3-4d6ac52915e6",
+        "time": 1767574715949,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "item_name": "Caprese",
+        "category": "Vegetarian",
+        "toppings_count": 0,
+        "premium_bread": false
+      }
+    },
+    {
+      "event": "Purchase Complete",
+      "properties": {
+        "distinct_id": "a9f06ff8-e95e-41c4-aca3-4d6ac52915e6",
+        "time": 1767574819847,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "item_name": "Caprese",
+        "total_amount": 8.25,
+        "payment_method": "Apple Pay"
+      }
+    },
+    {
+      "event": "App Open",
+      "properties": {
+        "distinct_id": "a9f06ff8-e95e-41c4-aca3-4d6ac52915e6",
+        "time": 1768265848539,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "platform": "iOS"
+      }
+    },
+    {
+      "event": "View Menu",
+      "properties": {
+        "distinct_id": "a9f06ff8-e95e-41c4-aca3-4d6ac52915e6",
+        "time": 1768265867999,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "sort_by": "Price"
+      }
+    },
+    {
+      "event": "Select Item",
+      "properties": {
+        "distinct_id": "a9f06ff8-e95e-41c4-aca3-4d6ac52915e6",
+        "time": 1768265920306,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "item_name": "Classic BLT",
+        "category": "Meat",
+        "price": 8.5
+      }
+    },
+    {
+      "event": "App Open",
+      "properties": {
+        "distinct_id": "866d42ed-422e-455f-b321-3b3581714ea0",
+        "time": 1767229048539,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "platform": "Android"
+      }
+    },
+    {
+      "event": "View Menu",
+      "properties": {
+        "distinct_id": "866d42ed-422e-455f-b321-3b3581714ea0",
+        "time": 1767229054327,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "sort_by": "Popularity"
+      }
+    },
+    {
+      "event": "Select Item",
+      "properties": {
+        "distinct_id": "866d42ed-422e-455f-b321-3b3581714ea0",
+        "time": 1767229098358,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "item_name": "Tuna Melt",
+        "category": "Seafood",
+        "price": 8.75
+      }
+    },
+    {
+      "event": "Add to Cart",
+      "properties": {
+        "distinct_id": "866d42ed-422e-455f-b321-3b3581714ea0",
+        "time": 1767229100411,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "item_name": "Tuna Melt",
+        "category": "Seafood",
+        "toppings_count": 2,
+        "premium_bread": false
+      }
+    },
+    {
+      "event": "App Open",
+      "properties": {
+        "distinct_id": "866d42ed-422e-455f-b321-3b3581714ea0",
+        "time": 1767747448539,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "platform": "Android"
+      }
+    },
+    {
+      "event": "View Menu",
+      "properties": {
+        "distinct_id": "866d42ed-422e-455f-b321-3b3581714ea0",
+        "time": 1767747474007,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "sort_by": "Popularity"
+      }
+    },
+    {
+      "event": "Select Item",
+      "properties": {
+        "distinct_id": "866d42ed-422e-455f-b321-3b3581714ea0",
+        "time": 1767747509248,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "item_name": "Classic BLT",
+        "category": "Meat",
+        "price": 8.5
+      }
+    },
+    {
+      "event": "Add to Cart",
+      "properties": {
+        "distinct_id": "866d42ed-422e-455f-b321-3b3581714ea0",
+        "time": 1767747516738,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "item_name": "Classic BLT",
+        "category": "Meat",
+        "toppings_count": 0,
+        "premium_bread": false
+      }
+    },
+    {
+      "event": "App Open",
+      "properties": {
+        "distinct_id": "866d42ed-422e-455f-b321-3b3581714ea0",
+        "time": 1768265848539,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "platform": "Android"
+      }
+    },
+    {
+      "event": "View Menu",
+      "properties": {
+        "distinct_id": "866d42ed-422e-455f-b321-3b3581714ea0",
+        "time": 1768265859085,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "sort_by": "Price"
+      }
+    },
+    {
+      "event": "Select Item",
+      "properties": {
+        "distinct_id": "866d42ed-422e-455f-b321-3b3581714ea0",
+        "time": 1768265899498,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "item_name": "Tuna Melt",
+        "category": "Seafood",
+        "price": 8.75
+      }
+    },
+    {
+      "event": "Add to Cart",
+      "properties": {
+        "distinct_id": "866d42ed-422e-455f-b321-3b3581714ea0",
+        "time": 1768265903332,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "item_name": "Tuna Melt",
+        "category": "Seafood",
+        "toppings_count": 0,
+        "premium_bread": true
+      }
+    },
+    {
+      "event": "App Open",
+      "properties": {
+        "distinct_id": "866d42ed-422e-455f-b321-3b3581714ea0",
+        "time": 1766451448539,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "platform": "Web"
+      }
+    },
+    {
+      "event": "View Menu",
+      "properties": {
+        "distinct_id": "866d42ed-422e-455f-b321-3b3581714ea0",
+        "time": 1766451459511,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "sort_by": "Popularity"
+      }
+    },
+    {
+      "event": "Select Item",
+      "properties": {
+        "distinct_id": "866d42ed-422e-455f-b321-3b3581714ea0",
+        "time": 1766451498788,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "item_name": "Tuna Melt",
+        "category": "Seafood",
+        "price": 8.75
+      }
+    },
+    {
+      "event": "Add to Cart",
+      "properties": {
+        "distinct_id": "866d42ed-422e-455f-b321-3b3581714ea0",
+        "time": 1766451501577,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "item_name": "Tuna Melt",
+        "category": "Seafood",
+        "toppings_count": 0,
+        "premium_bread": false
+      }
+    },
+    {
+      "event": "App Open",
+      "properties": {
+        "distinct_id": "722d4508-ee17-445f-973c-073ea9d5474b",
+        "time": 1768525048539,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "platform": "Web"
+      }
+    },
+    {
+      "event": "View Menu",
+      "properties": {
+        "distinct_id": "722d4508-ee17-445f-973c-073ea9d5474b",
+        "time": 1768525077525,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "sort_by": "Price"
+      }
+    },
+    {
+      "event": "Select Item",
+      "properties": {
+        "distinct_id": "722d4508-ee17-445f-973c-073ea9d5474b",
+        "time": 1768525123558,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "item_name": "Turkey Club",
+        "category": "Meat",
+        "price": 9.5
+      }
+    },
+    {
+      "event": "Add to Cart",
+      "properties": {
+        "distinct_id": "722d4508-ee17-445f-973c-073ea9d5474b",
+        "time": 1768525126317,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "item_name": "Turkey Club",
+        "category": "Meat",
+        "toppings_count": 2,
+        "premium_bread": true
+      }
+    },
+    {
+      "event": "App Open",
+      "properties": {
+        "distinct_id": "722d4508-ee17-445f-973c-073ea9d5474b",
+        "time": 1767056248539,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "platform": "Web"
+      }
+    },
+    {
+      "event": "View Menu",
+      "properties": {
+        "distinct_id": "722d4508-ee17-445f-973c-073ea9d5474b",
+        "time": 1767056265602,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "sort_by": "Recommended"
+      }
+    },
+    {
+      "event": "Select Item",
+      "properties": {
+        "distinct_id": "722d4508-ee17-445f-973c-073ea9d5474b",
+        "time": 1767056296758,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "item_name": "Veggie Delight",
+        "category": "Vegetarian",
+        "price": 8
+      }
+    },
+    {
+      "event": "Add to Cart",
+      "properties": {
+        "distinct_id": "722d4508-ee17-445f-973c-073ea9d5474b",
+        "time": 1767056300100,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "item_name": "Veggie Delight",
+        "category": "Vegetarian",
+        "toppings_count": 0,
+        "premium_bread": false
+      }
+    },
+    {
+      "event": "Purchase Complete",
+      "properties": {
+        "distinct_id": "722d4508-ee17-445f-973c-073ea9d5474b",
+        "time": 1767056381444,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "item_name": "Veggie Delight",
+        "total_amount": 8,
+        "payment_method": "Credit Card"
+      }
+    },
+    {
+      "event": "App Open",
+      "properties": {
+        "distinct_id": "722d4508-ee17-445f-973c-073ea9d5474b",
+        "time": 1766537848539,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "platform": "iOS"
+      }
+    },
+    {
+      "event": "View Menu",
+      "properties": {
+        "distinct_id": "722d4508-ee17-445f-973c-073ea9d5474b",
+        "time": 1766537874338,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "sort_by": "Price"
+      }
+    },
+    {
+      "event": "Select Item",
+      "properties": {
+        "distinct_id": "722d4508-ee17-445f-973c-073ea9d5474b",
+        "time": 1766537898179,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "item_name": "Tuna Melt",
+        "category": "Seafood",
+        "price": 8.75
+      }
+    },
+    {
+      "event": "Add to Cart",
+      "properties": {
+        "distinct_id": "722d4508-ee17-445f-973c-073ea9d5474b",
+        "time": 1766537905717,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "item_name": "Tuna Melt",
+        "category": "Seafood",
+        "toppings_count": 1,
+        "premium_bread": false
+      }
+    },
+    {
+      "event": "App Open",
+      "properties": {
+        "distinct_id": "12776211-f49d-4bcc-b02f-b1a23ae9889f",
+        "time": 1768784248539,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "platform": "Web"
+      }
+    },
+    {
+      "event": "View Menu",
+      "properties": {
+        "distinct_id": "12776211-f49d-4bcc-b02f-b1a23ae9889f",
+        "time": 1768784257620,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "sort_by": "Popularity"
+      }
+    },
+    {
+      "event": "Select Item",
+      "properties": {
+        "distinct_id": "12776211-f49d-4bcc-b02f-b1a23ae9889f",
+        "time": 1768784281627,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "item_name": "Tuna Melt",
+        "category": "Seafood",
+        "price": 8.75
+      }
+    },
+    {
+      "event": "Add to Cart",
+      "properties": {
+        "distinct_id": "12776211-f49d-4bcc-b02f-b1a23ae9889f",
+        "time": 1768784286493,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "item_name": "Tuna Melt",
+        "category": "Seafood",
+        "toppings_count": 1,
+        "premium_bread": false
+      }
+    },
+    {
+      "event": "App Open",
+      "properties": {
+        "distinct_id": "12776211-f49d-4bcc-b02f-b1a23ae9889f",
+        "time": 1768697848539,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "platform": "iOS"
+      }
+    },
+    {
+      "event": "View Menu",
+      "properties": {
+        "distinct_id": "12776211-f49d-4bcc-b02f-b1a23ae9889f",
+        "time": 1768697861301,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "sort_by": "Recommended"
+      }
+    },
+    {
+      "event": "Select Item",
+      "properties": {
+        "distinct_id": "12776211-f49d-4bcc-b02f-b1a23ae9889f",
+        "time": 1768697885218,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "item_name": "Classic BLT",
+        "category": "Meat",
+        "price": 8.5
+      }
+    },
+    {
+      "event": "Add to Cart",
+      "properties": {
+        "distinct_id": "12776211-f49d-4bcc-b02f-b1a23ae9889f",
+        "time": 1768697888403,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "item_name": "Classic BLT",
+        "category": "Meat",
+        "toppings_count": 2,
+        "premium_bread": false
+      }
+    },
+    {
+      "event": "App Open",
+      "properties": {
+        "distinct_id": "e6855ebc-8d36-49f3-b78f-1cd33ab2b187",
+        "time": 1768093048539,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "platform": "Android"
+      }
+    },
+    {
+      "event": "View Menu",
+      "properties": {
+        "distinct_id": "e6855ebc-8d36-49f3-b78f-1cd33ab2b187",
+        "time": 1768093068012,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "sort_by": "Popularity"
+      }
+    },
+    {
+      "event": "App Open",
+      "properties": {
+        "distinct_id": "e6855ebc-8d36-49f3-b78f-1cd33ab2b187",
+        "time": 1768870648539,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "platform": "iOS"
+      }
+    },
+    {
+      "event": "View Menu",
+      "properties": {
+        "distinct_id": "e6855ebc-8d36-49f3-b78f-1cd33ab2b187",
+        "time": 1768870655937,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "sort_by": "Price"
+      }
+    },
+    {
+      "event": "App Open",
+      "properties": {
+        "distinct_id": "9ca4f3c8-27a7-4932-b03e-875c22ff32a7",
+        "time": 1768006648539,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "platform": "iOS"
+      }
+    },
+    {
+      "event": "View Menu",
+      "properties": {
+        "distinct_id": "9ca4f3c8-27a7-4932-b03e-875c22ff32a7",
+        "time": 1768006669129,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "sort_by": "Popularity"
+      }
+    },
+    {
+      "event": "Select Item",
+      "properties": {
+        "distinct_id": "9ca4f3c8-27a7-4932-b03e-875c22ff32a7",
+        "time": 1768006713976,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "item_name": "Spicy Italian",
+        "category": "Meat",
+        "price": 9
+      }
+    },
+    {
+      "event": "App Open",
+      "properties": {
+        "distinct_id": "9ca4f3c8-27a7-4932-b03e-875c22ff32a7",
+        "time": 1768611448539,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "platform": "Android"
+      }
+    },
+    {
+      "event": "View Menu",
+      "properties": {
+        "distinct_id": "9ca4f3c8-27a7-4932-b03e-875c22ff32a7",
+        "time": 1768611473260,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "sort_by": "Recommended"
+      }
+    },
+    {
+      "event": "Select Item",
+      "properties": {
+        "distinct_id": "9ca4f3c8-27a7-4932-b03e-875c22ff32a7",
+        "time": 1768611489127,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "item_name": "Turkey Club",
+        "category": "Meat",
+        "price": 9.5
+      }
+    },
+    {
+      "event": "Add to Cart",
+      "properties": {
+        "distinct_id": "9ca4f3c8-27a7-4932-b03e-875c22ff32a7",
+        "time": 1768611496327,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "item_name": "Turkey Club",
+        "category": "Meat",
+        "toppings_count": 0,
+        "premium_bread": false
+      }
+    },
+    {
+      "event": "Purchase Complete",
+      "properties": {
+        "distinct_id": "9ca4f3c8-27a7-4932-b03e-875c22ff32a7",
+        "time": 1768611608656,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "item_name": "Turkey Club",
+        "total_amount": 9.5,
+        "payment_method": "Credit Card"
+      }
+    },
+    {
+      "event": "App Open",
+      "properties": {
+        "distinct_id": "4e51e00b-df54-416e-8a2d-0fa463025ce8",
+        "time": 1767574648539,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "platform": "Android"
+      }
+    },
+    {
+      "event": "App Open",
+      "properties": {
+        "distinct_id": "4e51e00b-df54-416e-8a2d-0fa463025ce8",
+        "time": 1767661048539,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "platform": "iOS"
+      }
+    },
+    {
+      "event": "View Menu",
+      "properties": {
+        "distinct_id": "4e51e00b-df54-416e-8a2d-0fa463025ce8",
+        "time": 1767661060010,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "sort_by": "Recommended"
+      }
+    },
+    {
+      "event": "Select Item",
+      "properties": {
+        "distinct_id": "4e51e00b-df54-416e-8a2d-0fa463025ce8",
+        "time": 1767661071996,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "item_name": "Caprese",
+        "category": "Vegetarian",
+        "price": 8.25
+      }
+    },
+    {
+      "event": "App Open",
+      "properties": {
+        "distinct_id": "6ec95892-0f4d-4630-acf2-73311f724c96",
+        "time": 1766537848539,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "platform": "Android"
+      }
+    },
+    {
+      "event": "View Menu",
+      "properties": {
+        "distinct_id": "6ec95892-0f4d-4630-acf2-73311f724c96",
+        "time": 1766537866812,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "sort_by": "Recommended"
+      }
+    },
+    {
+      "event": "Select Item",
+      "properties": {
+        "distinct_id": "6ec95892-0f4d-4630-acf2-73311f724c96",
+        "time": 1766537913114,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "item_name": "Tuna Melt",
+        "category": "Seafood",
+        "price": 8.75
+      }
+    },
+    {
+      "event": "App Open",
+      "properties": {
+        "distinct_id": "6ec95892-0f4d-4630-acf2-73311f724c96",
+        "time": 1766797048539,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "platform": "Android"
+      }
+    },
+    {
+      "event": "View Menu",
+      "properties": {
+        "distinct_id": "6ec95892-0f4d-4630-acf2-73311f724c96",
+        "time": 1766797075308,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "sort_by": "Popularity"
+      }
+    },
+    {
+      "event": "Select Item",
+      "properties": {
+        "distinct_id": "6ec95892-0f4d-4630-acf2-73311f724c96",
+        "time": 1766797108250,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "item_name": "Veggie Delight",
+        "category": "Vegetarian",
+        "price": 8
+      }
+    },
+    {
+      "event": "Add to Cart",
+      "properties": {
+        "distinct_id": "6ec95892-0f4d-4630-acf2-73311f724c96",
+        "time": 1766797111984,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "item_name": "Veggie Delight",
+        "category": "Vegetarian",
+        "toppings_count": 0,
+        "premium_bread": true
+      }
+    },
+    {
+      "event": "Purchase Complete",
+      "properties": {
+        "distinct_id": "6ec95892-0f4d-4630-acf2-73311f724c96",
+        "time": 1766797226390,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "item_name": "Veggie Delight",
+        "total_amount": 8,
+        "payment_method": "Apple Pay"
+      }
+    },
+    {
+      "event": "App Open",
+      "properties": {
+        "distinct_id": "6ec95892-0f4d-4630-acf2-73311f724c96",
+        "time": 1768179448539,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "platform": "iOS"
+      }
+    },
+    {
+      "event": "View Menu",
+      "properties": {
+        "distinct_id": "6ec95892-0f4d-4630-acf2-73311f724c96",
+        "time": 1768179464808,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "sort_by": "Recommended"
+      }
+    },
+    {
+      "event": "Select Item",
+      "properties": {
+        "distinct_id": "6ec95892-0f4d-4630-acf2-73311f724c96",
+        "time": 1768179492731,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "item_name": "Tuna Melt",
+        "category": "Seafood",
+        "price": 8.75
+      }
+    },
+    {
+      "event": "Add to Cart",
+      "properties": {
+        "distinct_id": "6ec95892-0f4d-4630-acf2-73311f724c96",
+        "time": 1768179496043,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "item_name": "Tuna Melt",
+        "category": "Seafood",
+        "toppings_count": 0,
+        "premium_bread": false
+      }
+    },
+    {
+      "event": "Purchase Complete",
+      "properties": {
+        "distinct_id": "6ec95892-0f4d-4630-acf2-73311f724c96",
+        "time": 1768179538928,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "item_name": "Tuna Melt",
+        "total_amount": 8.75,
+        "payment_method": "Apple Pay"
+      }
+    },
+    {
+      "event": "App Open",
+      "properties": {
+        "distinct_id": "5d282177-c753-4f6a-8fe7-243eb4456f8f",
+        "time": 1766451448539,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "platform": "Android"
+      }
+    },
+    {
+      "event": "View Menu",
+      "properties": {
+        "distinct_id": "5d282177-c753-4f6a-8fe7-243eb4456f8f",
+        "time": 1766451456467,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "sort_by": "Price"
+      }
+    },
+    {
+      "event": "Select Item",
+      "properties": {
+        "distinct_id": "5d282177-c753-4f6a-8fe7-243eb4456f8f",
+        "time": 1766451494168,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "item_name": "Classic BLT",
+        "category": "Meat",
+        "price": 8.5
+      }
+    },
+    {
+      "event": "App Open",
+      "properties": {
+        "distinct_id": "5d282177-c753-4f6a-8fe7-243eb4456f8f",
+        "time": 1767488248539,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "platform": "Android"
+      }
+    },
+    {
+      "event": "View Menu",
+      "properties": {
+        "distinct_id": "5d282177-c753-4f6a-8fe7-243eb4456f8f",
+        "time": 1767488274469,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "sort_by": "Recommended"
+      }
+    },
+    {
+      "event": "Select Item",
+      "properties": {
+        "distinct_id": "5d282177-c753-4f6a-8fe7-243eb4456f8f",
+        "time": 1767488333408,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "item_name": "Caprese",
+        "category": "Vegetarian",
+        "price": 8.25
+      }
+    },
+    {
+      "event": "Add to Cart",
+      "properties": {
+        "distinct_id": "5d282177-c753-4f6a-8fe7-243eb4456f8f",
+        "time": 1767488335852,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "item_name": "Caprese",
+        "category": "Vegetarian",
+        "toppings_count": 0,
+        "premium_bread": false
+      }
+    },
+    {
+      "event": "App Open",
+      "properties": {
+        "distinct_id": "5d282177-c753-4f6a-8fe7-243eb4456f8f",
+        "time": 1767574648539,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "platform": "Web"
+      }
+    },
+    {
+      "event": "View Menu",
+      "properties": {
+        "distinct_id": "5d282177-c753-4f6a-8fe7-243eb4456f8f",
+        "time": 1767574673194,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "sort_by": "Price"
+      }
+    },
+    {
+      "event": "Select Item",
+      "properties": {
+        "distinct_id": "5d282177-c753-4f6a-8fe7-243eb4456f8f",
+        "time": 1767574730515,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "item_name": "Veggie Delight",
+        "category": "Vegetarian",
+        "price": 8
+      }
+    },
+    {
+      "event": "App Open",
+      "properties": {
+        "distinct_id": "429976c4-8e65-4d3c-b2d2-edf2472e63fc",
+        "time": 1767229048539,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "platform": "Android"
+      }
+    },
+    {
+      "event": "View Menu",
+      "properties": {
+        "distinct_id": "429976c4-8e65-4d3c-b2d2-edf2472e63fc",
+        "time": 1767229065537,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "sort_by": "Price"
+      }
+    },
+    {
+      "event": "Select Item",
+      "properties": {
+        "distinct_id": "429976c4-8e65-4d3c-b2d2-edf2472e63fc",
+        "time": 1767229084523,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "item_name": "Turkey Club",
+        "category": "Meat",
+        "price": 9.5
+      }
+    },
+    {
+      "event": "Add to Cart",
+      "properties": {
+        "distinct_id": "429976c4-8e65-4d3c-b2d2-edf2472e63fc",
+        "time": 1767229090551,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "item_name": "Turkey Club",
+        "category": "Meat",
+        "toppings_count": 2,
+        "premium_bread": true
+      }
+    },
+    {
+      "event": "Purchase Complete",
+      "properties": {
+        "distinct_id": "429976c4-8e65-4d3c-b2d2-edf2472e63fc",
+        "time": 1767229120392,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "item_name": "Turkey Club",
+        "total_amount": 10.5,
+        "payment_method": "PayPal"
+      }
+    },
+    {
+      "event": "App Open",
+      "properties": {
+        "distinct_id": "429976c4-8e65-4d3c-b2d2-edf2472e63fc",
+        "time": 1766451448539,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "platform": "Web"
+      }
+    },
+    {
+      "event": "View Menu",
+      "properties": {
+        "distinct_id": "429976c4-8e65-4d3c-b2d2-edf2472e63fc",
+        "time": 1766451459610,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "sort_by": "Price"
+      }
+    },
+    {
+      "event": "Select Item",
+      "properties": {
+        "distinct_id": "429976c4-8e65-4d3c-b2d2-edf2472e63fc",
+        "time": 1766451515125,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "item_name": "Veggie Delight",
+        "category": "Vegetarian",
+        "price": 8
+      }
+    },
+    {
+      "event": "Add to Cart",
+      "properties": {
+        "distinct_id": "429976c4-8e65-4d3c-b2d2-edf2472e63fc",
+        "time": 1766451518009,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "item_name": "Veggie Delight",
+        "category": "Vegetarian",
+        "toppings_count": 1,
+        "premium_bread": false
+      }
+    },
+    {
+      "event": "Purchase Complete",
+      "properties": {
+        "distinct_id": "429976c4-8e65-4d3c-b2d2-edf2472e63fc",
+        "time": 1766451594537,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "item_name": "Veggie Delight",
+        "total_amount": 8.5,
+        "payment_method": "Credit Card"
+      }
+    },
+    {
+      "event": "App Open",
+      "properties": {
+        "distinct_id": "94568a5d-c2de-4bd0-a762-220d0f492d43",
+        "time": 1768438648539,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "platform": "iOS"
+      }
+    },
+    {
+      "event": "View Menu",
+      "properties": {
+        "distinct_id": "94568a5d-c2de-4bd0-a762-220d0f492d43",
+        "time": 1768438666240,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "sort_by": "Popularity"
+      }
+    },
+    {
+      "event": "Select Item",
+      "properties": {
+        "distinct_id": "94568a5d-c2de-4bd0-a762-220d0f492d43",
+        "time": 1768438671923,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "item_name": "Veggie Delight",
+        "category": "Vegetarian",
+        "price": 8
+      }
+    },
+    {
+      "event": "Add to Cart",
+      "properties": {
+        "distinct_id": "94568a5d-c2de-4bd0-a762-220d0f492d43",
+        "time": 1768438677048,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "item_name": "Veggie Delight",
+        "category": "Vegetarian",
+        "toppings_count": 1,
+        "premium_bread": false
+      }
+    },
+    {
+      "event": "Purchase Complete",
+      "properties": {
+        "distinct_id": "94568a5d-c2de-4bd0-a762-220d0f492d43",
+        "time": 1768438774942,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "item_name": "Veggie Delight",
+        "total_amount": 8.5,
+        "payment_method": "Apple Pay"
+      }
+    },
+    {
+      "event": "App Open",
+      "properties": {
+        "distinct_id": "94568a5d-c2de-4bd0-a762-220d0f492d43",
+        "time": 1766710648539,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "platform": "Android"
+      }
+    },
+    {
+      "event": "View Menu",
+      "properties": {
+        "distinct_id": "94568a5d-c2de-4bd0-a762-220d0f492d43",
+        "time": 1766710675183,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "sort_by": "Popularity"
+      }
+    },
+    {
+      "event": "Select Item",
+      "properties": {
+        "distinct_id": "94568a5d-c2de-4bd0-a762-220d0f492d43",
+        "time": 1766710682111,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "item_name": "Caprese",
+        "category": "Vegetarian",
+        "price": 8.25
+      }
+    },
+    {
+      "event": "Add to Cart",
+      "properties": {
+        "distinct_id": "94568a5d-c2de-4bd0-a762-220d0f492d43",
+        "time": 1766710689063,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "item_name": "Caprese",
+        "category": "Vegetarian",
+        "toppings_count": 1,
+        "premium_bread": false
+      }
+    },
+    {
+      "event": "Purchase Complete",
+      "properties": {
+        "distinct_id": "94568a5d-c2de-4bd0-a762-220d0f492d43",
+        "time": 1766710779458,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "item_name": "Caprese",
+        "total_amount": 8.75,
+        "payment_method": "Credit Card"
+      }
+    },
+    {
+      "event": "App Open",
+      "properties": {
+        "distinct_id": "94568a5d-c2de-4bd0-a762-220d0f492d43",
+        "time": 1768265848539,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "platform": "Android"
+      }
+    },
+    {
+      "event": "View Menu",
+      "properties": {
+        "distinct_id": "94568a5d-c2de-4bd0-a762-220d0f492d43",
+        "time": 1768265868899,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "sort_by": "Popularity"
+      }
+    },
+    {
+      "event": "Select Item",
+      "properties": {
+        "distinct_id": "94568a5d-c2de-4bd0-a762-220d0f492d43",
+        "time": 1768265917925,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "item_name": "Turkey Club",
+        "category": "Meat",
+        "price": 9.5
+      }
+    },
+    {
+      "event": "Add to Cart",
+      "properties": {
+        "distinct_id": "94568a5d-c2de-4bd0-a762-220d0f492d43",
+        "time": 1768265924514,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "item_name": "Turkey Club",
+        "category": "Meat",
+        "toppings_count": 0,
+        "premium_bread": false
+      }
+    },
+    {
+      "event": "Purchase Complete",
+      "properties": {
+        "distinct_id": "94568a5d-c2de-4bd0-a762-220d0f492d43",
+        "time": 1768265984165,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "item_name": "Turkey Club",
+        "total_amount": 9.5,
+        "payment_method": "Credit Card"
+      }
+    },
+    {
+      "event": "App Open",
+      "properties": {
+        "distinct_id": "94568a5d-c2de-4bd0-a762-220d0f492d43",
+        "time": 1768265848539,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "platform": "Android"
+      }
+    },
+    {
+      "event": "View Menu",
+      "properties": {
+        "distinct_id": "94568a5d-c2de-4bd0-a762-220d0f492d43",
+        "time": 1768265869420,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "sort_by": "Popularity"
+      }
+    },
+    {
+      "event": "Select Item",
+      "properties": {
+        "distinct_id": "94568a5d-c2de-4bd0-a762-220d0f492d43",
+        "time": 1768265894686,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "item_name": "Caprese",
+        "category": "Vegetarian",
+        "price": 8.25
+      }
+    },
+    {
+      "event": "Add to Cart",
+      "properties": {
+        "distinct_id": "94568a5d-c2de-4bd0-a762-220d0f492d43",
+        "time": 1768265903470,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "item_name": "Caprese",
+        "category": "Vegetarian",
+        "toppings_count": 0,
+        "premium_bread": true
+      }
+    },
+    {
+      "event": "Purchase Complete",
+      "properties": {
+        "distinct_id": "94568a5d-c2de-4bd0-a762-220d0f492d43",
+        "time": 1768265948544,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "item_name": "Caprese",
+        "total_amount": 8.25,
+        "payment_method": "Apple Pay"
+      }
+    },
+    {
+      "event": "App Open",
+      "properties": {
+        "distinct_id": "94568a5d-c2de-4bd0-a762-220d0f492d43",
+        "time": 1766365048539,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "platform": "Web"
+      }
+    },
+    {
+      "event": "View Menu",
+      "properties": {
+        "distinct_id": "94568a5d-c2de-4bd0-a762-220d0f492d43",
+        "time": 1766365063595,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "sort_by": "Popularity"
+      }
+    },
+    {
+      "event": "App Open",
+      "properties": {
+        "distinct_id": "578b6b1a-0ef4-4cbe-9e36-b18f63d638f3",
+        "time": 1768352248539,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "platform": "Android"
+      }
+    },
+    {
+      "event": "View Menu",
+      "properties": {
+        "distinct_id": "578b6b1a-0ef4-4cbe-9e36-b18f63d638f3",
+        "time": 1768352259414,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "sort_by": "Price"
+      }
+    },
+    {
+      "event": "Select Item",
+      "properties": {
+        "distinct_id": "578b6b1a-0ef4-4cbe-9e36-b18f63d638f3",
+        "time": 1768352269898,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "item_name": "Spicy Italian",
+        "category": "Meat",
+        "price": 9
+      }
+    },
+    {
+      "event": "App Open",
+      "properties": {
+        "distinct_id": "578b6b1a-0ef4-4cbe-9e36-b18f63d638f3",
+        "time": 1768697848539,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "platform": "iOS"
+      }
+    },
+    {
+      "event": "View Menu",
+      "properties": {
+        "distinct_id": "578b6b1a-0ef4-4cbe-9e36-b18f63d638f3",
+        "time": 1768697871864,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "sort_by": "Recommended"
+      }
+    },
+    {
+      "event": "Select Item",
+      "properties": {
+        "distinct_id": "578b6b1a-0ef4-4cbe-9e36-b18f63d638f3",
+        "time": 1768697915018,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "item_name": "Turkey Club",
+        "category": "Meat",
+        "price": 9.5
+      }
+    },
+    {
+      "event": "Add to Cart",
+      "properties": {
+        "distinct_id": "578b6b1a-0ef4-4cbe-9e36-b18f63d638f3",
+        "time": 1768697919341,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "item_name": "Turkey Club",
+        "category": "Meat",
+        "toppings_count": 0,
+        "premium_bread": true
+      }
+    },
+    {
+      "event": "App Open",
+      "properties": {
+        "distinct_id": "578b6b1a-0ef4-4cbe-9e36-b18f63d638f3",
+        "time": 1767229048539,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "platform": "iOS"
+      }
+    },
+    {
+      "event": "View Menu",
+      "properties": {
+        "distinct_id": "578b6b1a-0ef4-4cbe-9e36-b18f63d638f3",
+        "time": 1767229072300,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "sort_by": "Price"
+      }
+    },
+    {
+      "event": "Select Item",
+      "properties": {
+        "distinct_id": "578b6b1a-0ef4-4cbe-9e36-b18f63d638f3",
+        "time": 1767229086688,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "item_name": "Caprese",
+        "category": "Vegetarian",
+        "price": 8.25
+      }
+    },
+    {
+      "event": "Add to Cart",
+      "properties": {
+        "distinct_id": "578b6b1a-0ef4-4cbe-9e36-b18f63d638f3",
+        "time": 1767229096521,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "item_name": "Caprese",
+        "category": "Vegetarian",
+        "toppings_count": 2,
+        "premium_bread": true
+      }
+    },
+    {
+      "event": "Purchase Complete",
+      "properties": {
+        "distinct_id": "578b6b1a-0ef4-4cbe-9e36-b18f63d638f3",
+        "time": 1767229129149,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "item_name": "Caprese",
+        "total_amount": 9.25,
+        "payment_method": "Credit Card"
+      }
+    },
+    {
+      "event": "App Open",
+      "properties": {
+        "distinct_id": "fba85e9c-25c0-4ff1-a5a1-627c8cbd8e5d",
+        "time": 1767142648539,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "platform": "Web"
+      }
+    },
+    {
+      "event": "View Menu",
+      "properties": {
+        "distinct_id": "fba85e9c-25c0-4ff1-a5a1-627c8cbd8e5d",
+        "time": 1767142667327,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "sort_by": "Price"
+      }
+    },
+    {
+      "event": "Select Item",
+      "properties": {
+        "distinct_id": "fba85e9c-25c0-4ff1-a5a1-627c8cbd8e5d",
+        "time": 1767142696155,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "item_name": "Classic BLT",
+        "category": "Meat",
+        "price": 8.5
+      }
+    },
+    {
+      "event": "Add to Cart",
+      "properties": {
+        "distinct_id": "fba85e9c-25c0-4ff1-a5a1-627c8cbd8e5d",
+        "time": 1767142702474,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "item_name": "Classic BLT",
+        "category": "Meat",
+        "toppings_count": 0,
+        "premium_bread": false
+      }
+    },
+    {
+      "event": "App Open",
+      "properties": {
+        "distinct_id": "fba85e9c-25c0-4ff1-a5a1-627c8cbd8e5d",
+        "time": 1768006648539,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "platform": "iOS"
+      }
+    },
+    {
+      "event": "View Menu",
+      "properties": {
+        "distinct_id": "fba85e9c-25c0-4ff1-a5a1-627c8cbd8e5d",
+        "time": 1768006675170,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "sort_by": "Recommended"
+      }
+    },
+    {
+      "event": "Select Item",
+      "properties": {
+        "distinct_id": "fba85e9c-25c0-4ff1-a5a1-627c8cbd8e5d",
+        "time": 1768006686964,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "item_name": "Caprese",
+        "category": "Vegetarian",
+        "price": 8.25
+      }
+    },
+    {
+      "event": "Add to Cart",
+      "properties": {
+        "distinct_id": "fba85e9c-25c0-4ff1-a5a1-627c8cbd8e5d",
+        "time": 1768006695665,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "item_name": "Caprese",
+        "category": "Vegetarian",
+        "toppings_count": 2,
+        "premium_bread": false
+      }
+    },
+    {
+      "event": "Purchase Complete",
+      "properties": {
+        "distinct_id": "fba85e9c-25c0-4ff1-a5a1-627c8cbd8e5d",
+        "time": 1768006737559,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "item_name": "Caprese",
+        "total_amount": 9.25,
+        "payment_method": "PayPal"
+      }
+    },
+    {
+      "event": "App Open",
+      "properties": {
+        "distinct_id": "fba85e9c-25c0-4ff1-a5a1-627c8cbd8e5d",
+        "time": 1767229048539,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "platform": "Android"
+      }
+    },
+    {
+      "event": "View Menu",
+      "properties": {
+        "distinct_id": "fba85e9c-25c0-4ff1-a5a1-627c8cbd8e5d",
+        "time": 1767229055634,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "sort_by": "Popularity"
+      }
+    },
+    {
+      "event": "Select Item",
+      "properties": {
+        "distinct_id": "fba85e9c-25c0-4ff1-a5a1-627c8cbd8e5d",
+        "time": 1767229095945,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "item_name": "Caprese",
+        "category": "Vegetarian",
+        "price": 8.25
+      }
+    },
+    {
+      "event": "Add to Cart",
+      "properties": {
+        "distinct_id": "fba85e9c-25c0-4ff1-a5a1-627c8cbd8e5d",
+        "time": 1767229098992,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "item_name": "Caprese",
+        "category": "Vegetarian",
+        "toppings_count": 1,
+        "premium_bread": false
+      }
+    },
+    {
+      "event": "Purchase Complete",
+      "properties": {
+        "distinct_id": "fba85e9c-25c0-4ff1-a5a1-627c8cbd8e5d",
+        "time": 1767229210063,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "item_name": "Caprese",
+        "total_amount": 8.75,
+        "payment_method": "PayPal"
+      }
+    },
+    {
+      "event": "App Open",
+      "properties": {
+        "distinct_id": "fba85e9c-25c0-4ff1-a5a1-627c8cbd8e5d",
+        "time": 1767056248539,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "platform": "Web"
+      }
+    },
+    {
+      "event": "View Menu",
+      "properties": {
+        "distinct_id": "fba85e9c-25c0-4ff1-a5a1-627c8cbd8e5d",
+        "time": 1767056261192,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "sort_by": "Popularity"
+      }
+    },
+    {
+      "event": "Select Item",
+      "properties": {
+        "distinct_id": "fba85e9c-25c0-4ff1-a5a1-627c8cbd8e5d",
+        "time": 1767056293781,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "item_name": "Caprese",
+        "category": "Vegetarian",
+        "price": 8.25
+      }
+    },
+    {
+      "event": "App Open",
+      "properties": {
+        "distinct_id": "1ec42b7d-b26a-410d-a8b1-e5961c839e64",
+        "time": 1767920248539,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "platform": "iOS"
+      }
+    },
+    {
+      "event": "View Menu",
+      "properties": {
+        "distinct_id": "1ec42b7d-b26a-410d-a8b1-e5961c839e64",
+        "time": 1767920268484,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "sort_by": "Recommended"
+      }
+    },
+    {
+      "event": "Select Item",
+      "properties": {
+        "distinct_id": "1ec42b7d-b26a-410d-a8b1-e5961c839e64",
+        "time": 1767920319155,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "item_name": "Veggie Delight",
+        "category": "Vegetarian",
+        "price": 8
+      }
+    },
+    {
+      "event": "App Open",
+      "properties": {
+        "distinct_id": "1ec42b7d-b26a-410d-a8b1-e5961c839e64",
+        "time": 1766451448539,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "platform": "Web"
+      }
+    },
+    {
+      "event": "View Menu",
+      "properties": {
+        "distinct_id": "1ec42b7d-b26a-410d-a8b1-e5961c839e64",
+        "time": 1766451460188,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "sort_by": "Recommended"
+      }
+    },
+    {
+      "event": "Select Item",
+      "properties": {
+        "distinct_id": "1ec42b7d-b26a-410d-a8b1-e5961c839e64",
+        "time": 1766451500811,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "item_name": "Classic BLT",
+        "category": "Meat",
+        "price": 8.5
+      }
+    },
+    {
+      "event": "App Open",
+      "properties": {
+        "distinct_id": "d9ab19dd-38fa-46a2-8598-906dc5653c6f",
+        "time": 1768265848539,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "platform": "iOS"
+      }
+    },
+    {
+      "event": "View Menu",
+      "properties": {
+        "distinct_id": "d9ab19dd-38fa-46a2-8598-906dc5653c6f",
+        "time": 1768265857965,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "sort_by": "Recommended"
+      }
+    },
+    {
+      "event": "App Open",
+      "properties": {
+        "distinct_id": "d9ab19dd-38fa-46a2-8598-906dc5653c6f",
+        "time": 1766797048539,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "platform": "iOS"
+      }
+    },
+    {
+      "event": "View Menu",
+      "properties": {
+        "distinct_id": "d9ab19dd-38fa-46a2-8598-906dc5653c6f",
+        "time": 1766797077401,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "sort_by": "Price"
+      }
+    },
+    {
+      "event": "Select Item",
+      "properties": {
+        "distinct_id": "d9ab19dd-38fa-46a2-8598-906dc5653c6f",
+        "time": 1766797121522,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "item_name": "Classic BLT",
+        "category": "Meat",
+        "price": 8.5
+      }
+    },
+    {
+      "event": "Add to Cart",
+      "properties": {
+        "distinct_id": "d9ab19dd-38fa-46a2-8598-906dc5653c6f",
+        "time": 1766797126619,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "item_name": "Classic BLT",
+        "category": "Meat",
+        "toppings_count": 1,
+        "premium_bread": false
+      }
+    },
+    {
+      "event": "Purchase Complete",
+      "properties": {
+        "distinct_id": "d9ab19dd-38fa-46a2-8598-906dc5653c6f",
+        "time": 1766797190640,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "item_name": "Classic BLT",
+        "total_amount": 9,
+        "payment_method": "PayPal"
+      }
+    },
+    {
+      "event": "App Open",
+      "properties": {
+        "distinct_id": "8ac3413b-2d7b-432f-b069-f4576179e5e2",
+        "time": 1768611448539,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "platform": "iOS"
+      }
+    },
+    {
+      "event": "View Menu",
+      "properties": {
+        "distinct_id": "8ac3413b-2d7b-432f-b069-f4576179e5e2",
+        "time": 1768611468875,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "sort_by": "Popularity"
+      }
+    },
+    {
+      "event": "App Open",
+      "properties": {
+        "distinct_id": "8ac3413b-2d7b-432f-b069-f4576179e5e2",
+        "time": 1768006648539,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "platform": "Web"
+      }
+    },
+    {
+      "event": "App Open",
+      "properties": {
+        "distinct_id": "f94fceb8-5dae-4ceb-a8f6-f9d43db3c0fb",
+        "time": 1768611448539,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "platform": "Android"
+      }
+    },
+    {
+      "event": "View Menu",
+      "properties": {
+        "distinct_id": "f94fceb8-5dae-4ceb-a8f6-f9d43db3c0fb",
+        "time": 1768611463173,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "sort_by": "Popularity"
+      }
+    },
+    {
+      "event": "Select Item",
+      "properties": {
+        "distinct_id": "f94fceb8-5dae-4ceb-a8f6-f9d43db3c0fb",
+        "time": 1768611518113,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "item_name": "Spicy Italian",
+        "category": "Meat",
+        "price": 9
+      }
+    },
+    {
+      "event": "Add to Cart",
+      "properties": {
+        "distinct_id": "f94fceb8-5dae-4ceb-a8f6-f9d43db3c0fb",
+        "time": 1768611523602,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "item_name": "Spicy Italian",
+        "category": "Meat",
+        "toppings_count": 1,
+        "premium_bread": false
+      }
+    },
+    {
+      "event": "App Open",
+      "properties": {
+        "distinct_id": "f94fceb8-5dae-4ceb-a8f6-f9d43db3c0fb",
+        "time": 1768006648539,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "platform": "iOS"
+      }
+    },
+    {
+      "event": "View Menu",
+      "properties": {
+        "distinct_id": "f94fceb8-5dae-4ceb-a8f6-f9d43db3c0fb",
+        "time": 1768006676732,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "sort_by": "Popularity"
+      }
+    },
+    {
+      "event": "Select Item",
+      "properties": {
+        "distinct_id": "f94fceb8-5dae-4ceb-a8f6-f9d43db3c0fb",
+        "time": 1768006682250,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "item_name": "Spicy Italian",
+        "category": "Meat",
+        "price": 9
+      }
+    },
+    {
+      "event": "App Open",
+      "properties": {
+        "distinct_id": "f94fceb8-5dae-4ceb-a8f6-f9d43db3c0fb",
+        "time": 1766797048539,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "platform": "Web"
+      }
+    },
+    {
+      "event": "View Menu",
+      "properties": {
+        "distinct_id": "f94fceb8-5dae-4ceb-a8f6-f9d43db3c0fb",
+        "time": 1766797058536,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "sort_by": "Popularity"
+      }
+    },
+    {
+      "event": "Select Item",
+      "properties": {
+        "distinct_id": "f94fceb8-5dae-4ceb-a8f6-f9d43db3c0fb",
+        "time": 1766797068044,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "item_name": "Spicy Italian",
+        "category": "Meat",
+        "price": 9
+      }
+    },
+    {
+      "event": "App Open",
+      "properties": {
+        "distinct_id": "607ed9c2-db9e-4b37-85fb-a6b959f36bfd",
+        "time": 1767747448539,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "platform": "Web"
+      }
+    },
+    {
+      "event": "View Menu",
+      "properties": {
+        "distinct_id": "607ed9c2-db9e-4b37-85fb-a6b959f36bfd",
+        "time": 1767747475859,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "sort_by": "Popularity"
+      }
+    },
+    {
+      "event": "Select Item",
+      "properties": {
+        "distinct_id": "607ed9c2-db9e-4b37-85fb-a6b959f36bfd",
+        "time": 1767747524196,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "item_name": "Turkey Club",
+        "category": "Meat",
+        "price": 9.5
+      }
+    },
+    {
+      "event": "App Open",
+      "properties": {
+        "distinct_id": "607ed9c2-db9e-4b37-85fb-a6b959f36bfd",
+        "time": 1768006648539,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "platform": "Android"
+      }
+    },
+    {
+      "event": "View Menu",
+      "properties": {
+        "distinct_id": "607ed9c2-db9e-4b37-85fb-a6b959f36bfd",
+        "time": 1768006668799,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "sort_by": "Recommended"
+      }
+    },
+    {
+      "event": "Select Item",
+      "properties": {
+        "distinct_id": "607ed9c2-db9e-4b37-85fb-a6b959f36bfd",
+        "time": 1768006728795,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "item_name": "Turkey Club",
+        "category": "Meat",
+        "price": 9.5
+      }
+    },
+    {
+      "event": "Add to Cart",
+      "properties": {
+        "distinct_id": "607ed9c2-db9e-4b37-85fb-a6b959f36bfd",
+        "time": 1768006734017,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "item_name": "Turkey Club",
+        "category": "Meat",
+        "toppings_count": 0,
+        "premium_bread": false
+      }
+    },
+    {
+      "event": "App Open",
+      "properties": {
+        "distinct_id": "0070f73d-5d39-4e00-82fa-53d357162089",
+        "time": 1767920248539,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "platform": "Android"
+      }
+    },
+    {
+      "event": "View Menu",
+      "properties": {
+        "distinct_id": "0070f73d-5d39-4e00-82fa-53d357162089",
+        "time": 1767920264241,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "sort_by": "Popularity"
+      }
+    },
+    {
+      "event": "App Open",
+      "properties": {
+        "distinct_id": "0070f73d-5d39-4e00-82fa-53d357162089",
+        "time": 1766797048539,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "platform": "Android"
+      }
+    },
+    {
+      "event": "View Menu",
+      "properties": {
+        "distinct_id": "0070f73d-5d39-4e00-82fa-53d357162089",
+        "time": 1766797075564,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "sort_by": "Price"
+      }
+    },
+    {
+      "event": "Select Item",
+      "properties": {
+        "distinct_id": "0070f73d-5d39-4e00-82fa-53d357162089",
+        "time": 1766797104623,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "item_name": "Veggie Delight",
+        "category": "Vegetarian",
+        "price": 8
+      }
+    },
+    {
+      "event": "App Open",
+      "properties": {
+        "distinct_id": "477dbfbb-d962-4783-9d5d-1a077dccc84e",
+        "time": 1767747448539,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "platform": "iOS"
+      }
+    },
+    {
+      "event": "View Menu",
+      "properties": {
+        "distinct_id": "477dbfbb-d962-4783-9d5d-1a077dccc84e",
+        "time": 1767747465219,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "sort_by": "Popularity"
+      }
+    },
+    {
+      "event": "Select Item",
+      "properties": {
+        "distinct_id": "477dbfbb-d962-4783-9d5d-1a077dccc84e",
+        "time": 1767747476482,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "item_name": "Tuna Melt",
+        "category": "Seafood",
+        "price": 8.75
+      }
+    },
+    {
+      "event": "Add to Cart",
+      "properties": {
+        "distinct_id": "477dbfbb-d962-4783-9d5d-1a077dccc84e",
+        "time": 1767747479849,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "item_name": "Tuna Melt",
+        "category": "Seafood",
+        "toppings_count": 1,
+        "premium_bread": false
+      }
+    },
+    {
+      "event": "Purchase Complete",
+      "properties": {
+        "distinct_id": "477dbfbb-d962-4783-9d5d-1a077dccc84e",
+        "time": 1767747540206,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "item_name": "Tuna Melt",
+        "total_amount": 9.25,
+        "payment_method": "PayPal"
+      }
+    },
+    {
+      "event": "App Open",
+      "properties": {
+        "distinct_id": "477dbfbb-d962-4783-9d5d-1a077dccc84e",
+        "time": 1768179448539,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "platform": "Web"
+      }
+    },
+    {
+      "event": "View Menu",
+      "properties": {
+        "distinct_id": "477dbfbb-d962-4783-9d5d-1a077dccc84e",
+        "time": 1768179470124,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "sort_by": "Price"
+      }
+    },
+    {
+      "event": "Select Item",
+      "properties": {
+        "distinct_id": "477dbfbb-d962-4783-9d5d-1a077dccc84e",
+        "time": 1768179486583,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "item_name": "Caprese",
+        "category": "Vegetarian",
+        "price": 8.25
+      }
+    },
+    {
+      "event": "Add to Cart",
+      "properties": {
+        "distinct_id": "477dbfbb-d962-4783-9d5d-1a077dccc84e",
+        "time": 1768179489386,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "item_name": "Caprese",
+        "category": "Vegetarian",
+        "toppings_count": 0,
+        "premium_bread": false
+      }
+    },
+    {
+      "event": "App Open",
+      "properties": {
+        "distinct_id": "477dbfbb-d962-4783-9d5d-1a077dccc84e",
+        "time": 1768006648539,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "platform": "Android"
+      }
+    },
+    {
+      "event": "App Open",
+      "properties": {
+        "distinct_id": "3da65568-126a-4214-be37-abf9ba1d01b6",
+        "time": 1768611448539,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "platform": "Android"
+      }
+    },
+    {
+      "event": "View Menu",
+      "properties": {
+        "distinct_id": "3da65568-126a-4214-be37-abf9ba1d01b6",
+        "time": 1768611468720,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "sort_by": "Price"
+      }
+    },
+    {
+      "event": "Select Item",
+      "properties": {
+        "distinct_id": "3da65568-126a-4214-be37-abf9ba1d01b6",
+        "time": 1768611510609,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "item_name": "Spicy Italian",
+        "category": "Meat",
+        "price": 9
+      }
+    },
+    {
+      "event": "Add to Cart",
+      "properties": {
+        "distinct_id": "3da65568-126a-4214-be37-abf9ba1d01b6",
+        "time": 1768611518473,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "item_name": "Spicy Italian",
+        "category": "Meat",
+        "toppings_count": 3,
+        "premium_bread": true
+      }
+    },
+    {
+      "event": "Purchase Complete",
+      "properties": {
+        "distinct_id": "3da65568-126a-4214-be37-abf9ba1d01b6",
+        "time": 1768611577199,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "item_name": "Spicy Italian",
+        "total_amount": 10.5,
+        "payment_method": "Credit Card"
+      }
+    },
+    {
+      "event": "App Open",
+      "properties": {
+        "distinct_id": "3da65568-126a-4214-be37-abf9ba1d01b6",
+        "time": 1768265848539,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "platform": "Android"
+      }
+    },
+    {
+      "event": "View Menu",
+      "properties": {
+        "distinct_id": "3da65568-126a-4214-be37-abf9ba1d01b6",
+        "time": 1768265875826,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "sort_by": "Recommended"
+      }
+    },
+    {
+      "event": "Select Item",
+      "properties": {
+        "distinct_id": "3da65568-126a-4214-be37-abf9ba1d01b6",
+        "time": 1768265901226,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "item_name": "Tuna Melt",
+        "category": "Seafood",
+        "price": 8.75
+      }
+    },
+    {
+      "event": "Add to Cart",
+      "properties": {
+        "distinct_id": "3da65568-126a-4214-be37-abf9ba1d01b6",
+        "time": 1768265907276,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "item_name": "Tuna Melt",
+        "category": "Seafood",
+        "toppings_count": 2,
+        "premium_bread": false
+      }
+    },
+    {
+      "event": "App Open",
+      "properties": {
+        "distinct_id": "3da65568-126a-4214-be37-abf9ba1d01b6",
+        "time": 1767056248539,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "platform": "iOS"
+      }
+    },
+    {
+      "event": "View Menu",
+      "properties": {
+        "distinct_id": "3da65568-126a-4214-be37-abf9ba1d01b6",
+        "time": 1767056272973,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "sort_by": "Popularity"
+      }
+    },
+    {
+      "event": "Select Item",
+      "properties": {
+        "distinct_id": "3da65568-126a-4214-be37-abf9ba1d01b6",
+        "time": 1767056325999,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "item_name": "Veggie Delight",
+        "category": "Vegetarian",
+        "price": 8
+      }
+    },
+    {
+      "event": "Add to Cart",
+      "properties": {
+        "distinct_id": "3da65568-126a-4214-be37-abf9ba1d01b6",
+        "time": 1767056335875,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "item_name": "Veggie Delight",
+        "category": "Vegetarian",
+        "toppings_count": 1,
+        "premium_bread": false
+      }
+    },
+    {
+      "event": "App Open",
+      "properties": {
+        "distinct_id": "3da65568-126a-4214-be37-abf9ba1d01b6",
+        "time": 1767747448539,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "platform": "Web"
+      }
+    },
+    {
+      "event": "View Menu",
+      "properties": {
+        "distinct_id": "3da65568-126a-4214-be37-abf9ba1d01b6",
+        "time": 1767747456772,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "sort_by": "Price"
+      }
+    },
+    {
+      "event": "Select Item",
+      "properties": {
+        "distinct_id": "3da65568-126a-4214-be37-abf9ba1d01b6",
+        "time": 1767747464751,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "item_name": "Turkey Club",
+        "category": "Meat",
+        "price": 9.5
+      }
+    },
+    {
+      "event": "Add to Cart",
+      "properties": {
+        "distinct_id": "3da65568-126a-4214-be37-abf9ba1d01b6",
+        "time": 1767747467880,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "item_name": "Turkey Club",
+        "category": "Meat",
+        "toppings_count": 0,
+        "premium_bread": true
+      }
+    },
+    {
+      "event": "Purchase Complete",
+      "properties": {
+        "distinct_id": "3da65568-126a-4214-be37-abf9ba1d01b6",
+        "time": 1767747495821,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "item_name": "Turkey Club",
+        "total_amount": 9.5,
+        "payment_method": "PayPal"
+      }
+    },
+    {
+      "event": "App Open",
+      "properties": {
+        "distinct_id": "c09dfbd0-c33e-468b-8774-5727a51d38ac",
+        "time": 1768697848539,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "platform": "Android"
+      }
+    },
+    {
+      "event": "View Menu",
+      "properties": {
+        "distinct_id": "c09dfbd0-c33e-468b-8774-5727a51d38ac",
+        "time": 1768697876608,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "sort_by": "Popularity"
+      }
+    },
+    {
+      "event": "Select Item",
+      "properties": {
+        "distinct_id": "c09dfbd0-c33e-468b-8774-5727a51d38ac",
+        "time": 1768697899573,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "item_name": "Caprese",
+        "category": "Vegetarian",
+        "price": 8.25
+      }
+    },
+    {
+      "event": "Add to Cart",
+      "properties": {
+        "distinct_id": "c09dfbd0-c33e-468b-8774-5727a51d38ac",
+        "time": 1768697905882,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "item_name": "Caprese",
+        "category": "Vegetarian",
+        "toppings_count": 0,
+        "premium_bread": false
+      }
+    },
+    {
+      "event": "Purchase Complete",
+      "properties": {
+        "distinct_id": "c09dfbd0-c33e-468b-8774-5727a51d38ac",
+        "time": 1768697961789,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "item_name": "Caprese",
+        "total_amount": 8.25,
+        "payment_method": "Apple Pay"
+      }
+    },
+    {
+      "event": "App Open",
+      "properties": {
+        "distinct_id": "c09dfbd0-c33e-468b-8774-5727a51d38ac",
+        "time": 1767920248539,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "platform": "iOS"
+      }
+    },
+    {
+      "event": "View Menu",
+      "properties": {
+        "distinct_id": "c09dfbd0-c33e-468b-8774-5727a51d38ac",
+        "time": 1767920276766,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "sort_by": "Recommended"
+      }
+    },
+    {
+      "event": "Select Item",
+      "properties": {
+        "distinct_id": "c09dfbd0-c33e-468b-8774-5727a51d38ac",
+        "time": 1767920316658,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "item_name": "Veggie Delight",
+        "category": "Vegetarian",
+        "price": 8
+      }
+    },
+    {
+      "event": "Add to Cart",
+      "properties": {
+        "distinct_id": "c09dfbd0-c33e-468b-8774-5727a51d38ac",
+        "time": 1767920324335,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "item_name": "Veggie Delight",
+        "category": "Vegetarian",
+        "toppings_count": 0,
+        "premium_bread": true
+      }
+    },
+    {
+      "event": "App Open",
+      "properties": {
+        "distinct_id": "c09dfbd0-c33e-468b-8774-5727a51d38ac",
+        "time": 1767315448539,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "platform": "Android"
+      }
+    },
+    {
+      "event": "View Menu",
+      "properties": {
+        "distinct_id": "c09dfbd0-c33e-468b-8774-5727a51d38ac",
+        "time": 1767315462264,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "sort_by": "Price"
+      }
+    },
+    {
+      "event": "App Open",
+      "properties": {
+        "distinct_id": "c09dfbd0-c33e-468b-8774-5727a51d38ac",
+        "time": 1768870648539,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "platform": "iOS"
+      }
+    },
+    {
+      "event": "View Menu",
+      "properties": {
+        "distinct_id": "c09dfbd0-c33e-468b-8774-5727a51d38ac",
+        "time": 1768870662094,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "sort_by": "Price"
+      }
+    },
+    {
+      "event": "Select Item",
+      "properties": {
+        "distinct_id": "c09dfbd0-c33e-468b-8774-5727a51d38ac",
+        "time": 1768870678112,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "item_name": "Veggie Delight",
+        "category": "Vegetarian",
+        "price": 8
+      }
+    },
+    {
+      "event": "Add to Cart",
+      "properties": {
+        "distinct_id": "c09dfbd0-c33e-468b-8774-5727a51d38ac",
+        "time": 1768870684707,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "item_name": "Veggie Delight",
+        "category": "Vegetarian",
+        "toppings_count": 1,
+        "premium_bread": false
+      }
+    },
+    {
+      "event": "Purchase Complete",
+      "properties": {
+        "distinct_id": "c09dfbd0-c33e-468b-8774-5727a51d38ac",
+        "time": 1768870758815,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "item_name": "Veggie Delight",
+        "total_amount": 8.5,
+        "payment_method": "Credit Card"
+      }
+    },
+    {
+      "event": "App Open",
+      "properties": {
+        "distinct_id": "c09dfbd0-c33e-468b-8774-5727a51d38ac",
+        "time": 1768093048539,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "platform": "Web"
+      }
+    },
+    {
+      "event": "App Open",
+      "properties": {
+        "distinct_id": "b7be7593-270e-4dba-9f5c-3f1875de98b0",
+        "time": 1766710648539,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "platform": "Android"
+      }
+    },
+    {
+      "event": "View Menu",
+      "properties": {
+        "distinct_id": "b7be7593-270e-4dba-9f5c-3f1875de98b0",
+        "time": 1766710670165,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "sort_by": "Recommended"
+      }
+    },
+    {
+      "event": "Select Item",
+      "properties": {
+        "distinct_id": "b7be7593-270e-4dba-9f5c-3f1875de98b0",
+        "time": 1766710707448,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "item_name": "Caprese",
+        "category": "Vegetarian",
+        "price": 8.25
+      }
+    },
+    {
+      "event": "Add to Cart",
+      "properties": {
+        "distinct_id": "b7be7593-270e-4dba-9f5c-3f1875de98b0",
+        "time": 1766710713804,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "item_name": "Caprese",
+        "category": "Vegetarian",
+        "toppings_count": 0,
+        "premium_bread": false
+      }
+    },
+    {
+      "event": "Purchase Complete",
+      "properties": {
+        "distinct_id": "b7be7593-270e-4dba-9f5c-3f1875de98b0",
+        "time": 1766710746883,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "item_name": "Caprese",
+        "total_amount": 8.25,
+        "payment_method": "Credit Card"
+      }
+    },
+    {
+      "event": "App Open",
+      "properties": {
+        "distinct_id": "b7be7593-270e-4dba-9f5c-3f1875de98b0",
+        "time": 1766710648539,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "platform": "Web"
+      }
+    },
+    {
+      "event": "View Menu",
+      "properties": {
+        "distinct_id": "b7be7593-270e-4dba-9f5c-3f1875de98b0",
+        "time": 1766710654704,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "sort_by": "Price"
+      }
+    },
+    {
+      "event": "Select Item",
+      "properties": {
+        "distinct_id": "b7be7593-270e-4dba-9f5c-3f1875de98b0",
+        "time": 1766710695038,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "item_name": "Caprese",
+        "category": "Vegetarian",
+        "price": 8.25
+      }
+    },
+    {
+      "event": "Add to Cart",
+      "properties": {
+        "distinct_id": "b7be7593-270e-4dba-9f5c-3f1875de98b0",
+        "time": 1766710702579,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "item_name": "Caprese",
+        "category": "Vegetarian",
+        "toppings_count": 0,
+        "premium_bread": true
+      }
+    },
+    {
+      "event": "Purchase Complete",
+      "properties": {
+        "distinct_id": "b7be7593-270e-4dba-9f5c-3f1875de98b0",
+        "time": 1766710724411,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "item_name": "Caprese",
+        "total_amount": 8.25,
+        "payment_method": "Credit Card"
+      }
+    },
+    {
+      "event": "App Open",
+      "properties": {
+        "distinct_id": "b2412b6d-52f3-476b-9041-e4fdd0f156a7",
+        "time": 1767833848539,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "platform": "Android"
+      }
+    },
+    {
+      "event": "View Menu",
+      "properties": {
+        "distinct_id": "b2412b6d-52f3-476b-9041-e4fdd0f156a7",
+        "time": 1767833867001,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "sort_by": "Price"
+      }
+    },
+    {
+      "event": "Select Item",
+      "properties": {
+        "distinct_id": "b2412b6d-52f3-476b-9041-e4fdd0f156a7",
+        "time": 1767833891554,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "item_name": "Spicy Italian",
+        "category": "Meat",
+        "price": 9
+      }
+    },
+    {
+      "event": "Add to Cart",
+      "properties": {
+        "distinct_id": "b2412b6d-52f3-476b-9041-e4fdd0f156a7",
+        "time": 1767833896818,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "item_name": "Spicy Italian",
+        "category": "Meat",
+        "toppings_count": 0,
+        "premium_bread": false
+      }
+    },
+    {
+      "event": "App Open",
+      "properties": {
+        "distinct_id": "b2412b6d-52f3-476b-9041-e4fdd0f156a7",
+        "time": 1767056248539,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "platform": "iOS"
+      }
+    },
+    {
+      "event": "View Menu",
+      "properties": {
+        "distinct_id": "b2412b6d-52f3-476b-9041-e4fdd0f156a7",
+        "time": 1767056277190,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "sort_by": "Popularity"
+      }
+    },
+    {
+      "event": "Select Item",
+      "properties": {
+        "distinct_id": "b2412b6d-52f3-476b-9041-e4fdd0f156a7",
+        "time": 1767056326597,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "item_name": "Turkey Club",
+        "category": "Meat",
+        "price": 9.5
+      }
+    },
+    {
+      "event": "App Open",
+      "properties": {
+        "distinct_id": "b2412b6d-52f3-476b-9041-e4fdd0f156a7",
+        "time": 1767574648539,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "platform": "Web"
+      }
+    },
+    {
+      "event": "View Menu",
+      "properties": {
+        "distinct_id": "b2412b6d-52f3-476b-9041-e4fdd0f156a7",
+        "time": 1767574670127,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "sort_by": "Price"
+      }
+    },
+    {
+      "event": "App Open",
+      "properties": {
+        "distinct_id": "b2412b6d-52f3-476b-9041-e4fdd0f156a7",
+        "time": 1766365048539,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "platform": "Web"
+      }
+    },
+    {
+      "event": "View Menu",
+      "properties": {
+        "distinct_id": "b2412b6d-52f3-476b-9041-e4fdd0f156a7",
+        "time": 1766365071744,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "sort_by": "Popularity"
+      }
+    },
+    {
+      "event": "Select Item",
+      "properties": {
+        "distinct_id": "b2412b6d-52f3-476b-9041-e4fdd0f156a7",
+        "time": 1766365108048,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "item_name": "Spicy Italian",
+        "category": "Meat",
+        "price": 9
+      }
+    },
+    {
+      "event": "Add to Cart",
+      "properties": {
+        "distinct_id": "b2412b6d-52f3-476b-9041-e4fdd0f156a7",
+        "time": 1766365112971,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "item_name": "Spicy Italian",
+        "category": "Meat",
+        "toppings_count": 2,
+        "premium_bread": false
+      }
+    },
+    {
+      "event": "App Open",
+      "properties": {
+        "distinct_id": "b2412b6d-52f3-476b-9041-e4fdd0f156a7",
+        "time": 1767315448539,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "platform": "iOS"
+      }
+    },
+    {
+      "event": "View Menu",
+      "properties": {
+        "distinct_id": "b2412b6d-52f3-476b-9041-e4fdd0f156a7",
+        "time": 1767315470528,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "sort_by": "Popularity"
+      }
+    },
+    {
+      "event": "App Open",
+      "properties": {
+        "distinct_id": "f45b6f4c-f3f6-4483-bbc8-1edbb65bf7ad",
+        "time": 1768352248539,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "platform": "iOS"
+      }
+    },
+    {
+      "event": "View Menu",
+      "properties": {
+        "distinct_id": "f45b6f4c-f3f6-4483-bbc8-1edbb65bf7ad",
+        "time": 1768352274917,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "sort_by": "Popularity"
+      }
+    },
+    {
+      "event": "Select Item",
+      "properties": {
+        "distinct_id": "f45b6f4c-f3f6-4483-bbc8-1edbb65bf7ad",
+        "time": 1768352319842,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "item_name": "Turkey Club",
+        "category": "Meat",
+        "price": 9.5
+      }
+    },
+    {
+      "event": "Add to Cart",
+      "properties": {
+        "distinct_id": "f45b6f4c-f3f6-4483-bbc8-1edbb65bf7ad",
+        "time": 1768352324773,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "item_name": "Turkey Club",
+        "category": "Meat",
+        "toppings_count": 1,
+        "premium_bread": true
+      }
+    },
+    {
+      "event": "Purchase Complete",
+      "properties": {
+        "distinct_id": "f45b6f4c-f3f6-4483-bbc8-1edbb65bf7ad",
+        "time": 1768352384148,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "item_name": "Turkey Club",
+        "total_amount": 10,
+        "payment_method": "Credit Card"
+      }
+    },
+    {
+      "event": "App Open",
+      "properties": {
+        "distinct_id": "489d36bb-aa8b-4de4-88ff-d60cfa6b9f08",
+        "time": 1766278648539,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "platform": "Android"
+      }
+    },
+    {
+      "event": "View Menu",
+      "properties": {
+        "distinct_id": "489d36bb-aa8b-4de4-88ff-d60cfa6b9f08",
+        "time": 1766278657425,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "sort_by": "Popularity"
+      }
+    },
+    {
+      "event": "Select Item",
+      "properties": {
+        "distinct_id": "489d36bb-aa8b-4de4-88ff-d60cfa6b9f08",
+        "time": 1766278706765,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "item_name": "Caprese",
+        "category": "Vegetarian",
+        "price": 8.25
+      }
+    },
+    {
+      "event": "App Open",
+      "properties": {
+        "distinct_id": "489d36bb-aa8b-4de4-88ff-d60cfa6b9f08",
+        "time": 1767661048539,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "platform": "Web"
+      }
+    },
+    {
+      "event": "View Menu",
+      "properties": {
+        "distinct_id": "489d36bb-aa8b-4de4-88ff-d60cfa6b9f08",
+        "time": 1767661055025,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "sort_by": "Popularity"
+      }
+    },
+    {
+      "event": "Select Item",
+      "properties": {
+        "distinct_id": "489d36bb-aa8b-4de4-88ff-d60cfa6b9f08",
+        "time": 1767661113326,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "item_name": "Caprese",
+        "category": "Vegetarian",
+        "price": 8.25
+      }
+    },
+    {
+      "event": "Add to Cart",
+      "properties": {
+        "distinct_id": "489d36bb-aa8b-4de4-88ff-d60cfa6b9f08",
+        "time": 1767661120849,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "item_name": "Caprese",
+        "category": "Vegetarian",
+        "toppings_count": 1,
+        "premium_bread": false
+      }
+    },
+    {
+      "event": "Purchase Complete",
+      "properties": {
+        "distinct_id": "489d36bb-aa8b-4de4-88ff-d60cfa6b9f08",
+        "time": 1767661155074,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "item_name": "Caprese",
+        "total_amount": 8.75,
+        "payment_method": "PayPal"
+      }
+    },
+    {
+      "event": "App Open",
+      "properties": {
+        "distinct_id": "489d36bb-aa8b-4de4-88ff-d60cfa6b9f08",
+        "time": 1767056248539,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "platform": "iOS"
+      }
+    },
+    {
+      "event": "View Menu",
+      "properties": {
+        "distinct_id": "489d36bb-aa8b-4de4-88ff-d60cfa6b9f08",
+        "time": 1767056259068,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "sort_by": "Price"
+      }
+    },
+    {
+      "event": "Select Item",
+      "properties": {
+        "distinct_id": "489d36bb-aa8b-4de4-88ff-d60cfa6b9f08",
+        "time": 1767056266633,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "item_name": "Veggie Delight",
+        "category": "Vegetarian",
+        "price": 8
+      }
+    },
+    {
+      "event": "Add to Cart",
+      "properties": {
+        "distinct_id": "489d36bb-aa8b-4de4-88ff-d60cfa6b9f08",
+        "time": 1767056268865,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "item_name": "Veggie Delight",
+        "category": "Vegetarian",
+        "toppings_count": 0,
+        "premium_bread": false
+      }
+    },
+    {
+      "event": "App Open",
+      "properties": {
+        "distinct_id": "489d36bb-aa8b-4de4-88ff-d60cfa6b9f08",
+        "time": 1766797048540,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "platform": "iOS"
+      }
+    },
+    {
+      "event": "App Open",
+      "properties": {
+        "distinct_id": "489d36bb-aa8b-4de4-88ff-d60cfa6b9f08",
+        "time": 1767574648540,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "platform": "iOS"
+      }
+    },
+    {
+      "event": "View Menu",
+      "properties": {
+        "distinct_id": "489d36bb-aa8b-4de4-88ff-d60cfa6b9f08",
+        "time": 1767574661810,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "sort_by": "Recommended"
+      }
+    },
+    {
+      "event": "Select Item",
+      "properties": {
+        "distinct_id": "489d36bb-aa8b-4de4-88ff-d60cfa6b9f08",
+        "time": 1767574693063,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "item_name": "Tuna Melt",
+        "category": "Seafood",
+        "price": 8.75
+      }
+    },
+    {
+      "event": "App Open",
+      "properties": {
+        "distinct_id": "5ab2a00f-534d-4c9e-86ec-80e7be936481",
+        "time": 1768093048540,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "platform": "Android"
+      }
+    },
+    {
+      "event": "App Open",
+      "properties": {
+        "distinct_id": "5ab2a00f-534d-4c9e-86ec-80e7be936481",
+        "time": 1767229048540,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "platform": "Android"
+      }
+    },
+    {
+      "event": "View Menu",
+      "properties": {
+        "distinct_id": "5ab2a00f-534d-4c9e-86ec-80e7be936481",
+        "time": 1767229064524,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "sort_by": "Popularity"
+      }
+    },
+    {
+      "event": "Select Item",
+      "properties": {
+        "distinct_id": "5ab2a00f-534d-4c9e-86ec-80e7be936481",
+        "time": 1767229099655,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "item_name": "Classic BLT",
+        "category": "Meat",
+        "price": 8.5
+      }
+    },
+    {
+      "event": "Add to Cart",
+      "properties": {
+        "distinct_id": "5ab2a00f-534d-4c9e-86ec-80e7be936481",
+        "time": 1767229109201,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "item_name": "Classic BLT",
+        "category": "Meat",
+        "toppings_count": 1,
+        "premium_bread": false
+      }
+    },
+    {
+      "event": "App Open",
+      "properties": {
+        "distinct_id": "5ab2a00f-534d-4c9e-86ec-80e7be936481",
+        "time": 1766969848540,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "platform": "Android"
+      }
+    },
+    {
+      "event": "View Menu",
+      "properties": {
+        "distinct_id": "5ab2a00f-534d-4c9e-86ec-80e7be936481",
+        "time": 1766969859251,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "sort_by": "Recommended"
+      }
+    },
+    {
+      "event": "Select Item",
+      "properties": {
+        "distinct_id": "5ab2a00f-534d-4c9e-86ec-80e7be936481",
+        "time": 1766969896278,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "item_name": "Tuna Melt",
+        "category": "Seafood",
+        "price": 8.75
+      }
+    },
+    {
+      "event": "Add to Cart",
+      "properties": {
+        "distinct_id": "5ab2a00f-534d-4c9e-86ec-80e7be936481",
+        "time": 1766969903982,
+        "token": "558e200eb6f28499d0c00361f4fc7ac2",
+        "item_name": "Tuna Melt",
+        "category": "Seafood",
+        "toppings_count": 2,
+        "premium_bread": false
+      }
+    }
+  ]
+}

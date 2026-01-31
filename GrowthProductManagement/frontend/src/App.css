@@ -1,0 +1,215 @@
+#root {
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  text-align: left;
+}
+
+.app-container {
+  display: flex;
+  min-height: 100vh;
+  width: 100vw;
+  background-color: #f5f7fa;
+}
+
+/* SIDEBAR */
+.sidebar {
+  width: 280px;
+  background-color: #1a237e;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  padding: 1rem;
+  flex-shrink: 0;
+  position: sticky;
+  /* Keeps it visible while scrolling */
+  top: 0;
+  height: 100vh;
+  /* Full viewport height */
+  overflow-y: auto;
+  z-index: 1000;
+  transition: width 0.3s ease-in-out, padding 0.3s ease-in-out;
+}
+
+/* Collapsed state for desktop */
+.sidebar.closed {
+  width: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+.logo-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 2rem;
+}
+
+.logo {
+  font-size: 1.5rem;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.close-btn {
+  background: none;
+  border: none;
+  font-size: 2rem;
+  color: white;
+  cursor: pointer;
+}
+
+.mobile-header {
+  display: none;
+  background-color: #1a237e;
+  color: white;
+  padding: 15px;
+  align-items: center;
+  gap: 15px;
+  position: sticky;
+  top: 0;
+  z-index: 900;
+}
+
+.menu-btn {
+  background: none;
+  border: none;
+  color: white;
+  font-size: 1.5rem;
+  cursor: pointer;
+}
+
+.overlay {
+  display: none;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: rgba(0, 0, 0, 0.5);
+  z-index: 950;
+}
+
+/* RESPONSIVE */
+@media (max-width: 768px) {
+  .app-container {
+    flex-direction: column;
+  }
+
+  .sidebar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    transform: translateX(-100%);
+    box-shadow: 2px 0 10px rgba(0, 0, 0, 0.3);
+  }
+
+  .sidebar.open {
+    transform: translateX(0);
+  }
+
+  .mobile-header {
+    display: flex;
+  }
+
+  .overlay {
+    display: block;
+  }
+
+  .close-btn {
+    display: block;
+    /* Ensure it shows on mobile if needed, though previously it was display:none for desktop */
+  }
+}
+
+/* Desktop Menu Button */
+.desktop-menu-btn {
+  display: none;
+  /* Hidden by default */
+}
+
+@media (min-width: 769px) {
+  .desktop-menu-btn {
+    display: block;
+    position: absolute;
+    top: 15px;
+    left: 15px;
+    background: #1a237e;
+    color: white;
+    border: none;
+    font-size: 1.5rem;
+    padding: 5px 10px;
+    border-radius: 5px;
+    cursor: pointer;
+    z-index: 100;
+  }
+}
+
+.nav-links {
+  list-style: none;
+  padding: 0;
+}
+
+.nav-links li {
+  padding: 12px;
+  cursor: pointer;
+  border-radius: 4px;
+  margin-bottom: 5px;
+  transition: background 0.2s;
+  font-size: 0.95rem;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.nav-links li:hover:not(.disabled) {
+  background-color: rgba(255, 255, 255, 0.1);
+}
+
+.nav-links li.active {
+  background-color: #3949ab;
+  font-weight: bold;
+  border-left: 4px solid #ffca28;
+}
+
+.nav-links li.disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+}
+
+/* MAIN CONTENT */
+.main-content {
+  flex: 1;
+  padding: 2rem;
+  overflow-y: auto;
+  color: #333;
+}
+
+h2 {
+  color: #1a237e;
+}
+
+/* SUB TABS */
+.tab-bar {
+  display: flex;
+  gap: 1rem;
+  margin-bottom: 2rem;
+  border-bottom: 2px solid #ddd;
+  padding-bottom: 0.5rem;
+}
+
+.tab-bar button {
+  background: none;
+  border: none;
+  font-size: 1rem;
+  padding: 0.5rem 1rem;
+  cursor: pointer;
+  color: #666;
+  font-weight: bold;
+}
+
+.tab-bar button.active-tab {
+  color: #1a237e;
+  border-bottom: 3px solid #1a237e;
+}
